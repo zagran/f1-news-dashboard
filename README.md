@@ -2,13 +2,15 @@
 
 A small dashboard with the latest Formula 1 headlines from five feeds: Formula1.com, the FIA, The Race, Autosport and Sky Sports. It is a static site for GitHub Pages. A scheduled GitHub Action plays the part of the backend.
 
-![F1 news dashboard](docs/screenshot.png)
+![F1 news dashboard, English view](docs/screenshot.png)
+
+The page opens in Ukrainian and has a UA / EN switch. Headlines are translated on your own device by Chrome's built-in translator (see [Languages](#languages)).
 
 ## How it works
 
 - `scripts/fetch_feeds.py` reads the RSS feeds listed in `feeds.json` and writes `site/data/news.json`. It uses only the Python standard library and reads structured XML, so there is no HTML scraping.
 - `.github/workflows/update-and-deploy.yml` runs it every 30 minutes. When the headlines change, it commits `site/data/news.json` and deploys `site/` to GitHub Pages.
-- `site/` is plain HTML, CSS and JavaScript with no build step. It loads `data/news.json`, checks for new headlines every 5 minutes, and lets you filter by source and search.
+- `site/` is plain HTML, CSS and JavaScript with no build step. It loads `data/news.json`, checks for new headlines every 5 minutes, and lets you filter by source and search. The page text comes in Ukrainian and English.
 
 ```
 feeds (RSS) ──> GitHub Action, every 30 min ──> site/data/news.json ──> GitHub Pages ──> browser
@@ -26,6 +28,16 @@ feeds (RSS) ──> GitHub Action, every 30 min ──> site/data/news.json ─�
 | [Formula1.com](https://www.formula1.com/en/latest/all.xml) | Official, but the feed has no publish times, so it gets its own column in feed order |
 
 To add or remove a feed, edit `feeds.json`. RSS 2.0, RSS 1.0 and Atom all work. Optional keys: `official`, `include` (a regex the title or summary must match) and `timeline: false` (show the feed in its own column instead of the timeline).
+
+## Languages
+
+- The page opens in Ukrainian. The UA / EN switch in the header changes the page text and the headlines, and the choice is remembered (`?lang=en` in the address works too).
+- In Ukrainian, headlines and summaries are translated in the browser with Chrome's built-in [Translator API](https://developer.chrome.com/docs/modern-web-guidance/guides/built-in-ai/translator) (Chrome 138+ or Edge 148+ on desktop). There is no key, no cost and no server: the text never leaves the device.
+- The first time, the page shows a "Перекласти новини українською" button, because Chrome has to download the English to Ukrainian model once and only does that after a click. After that, translation starts on its own.
+- Translations are kept in `localStorage`, so only new headlines are translated on later visits. Hovering a translated headline shows the English original.
+- Other browsers (Safari, Firefox, phones) show the Ukrainian page with English headlines and a short note that says why.
+
+All page text lives in the `TEXT` object at the top of `site/app.js`.
 
 ## Run it locally
 
