@@ -1,0 +1,36 @@
+[
+  {
+    "key": "therace",
+    "name": "The Race",
+    "feed": "https://the-race.com/category/formula-1/feed/",
+    "site": "https://www.the-race.com/category/formula-1/"
+  },
+  {
+    "key": "autosport",
+    "name": "Autosport",
+    "feed": "https://www.autosport.com/rss/f1/news/",
+    "site": "https://www.autosport.com/f1/news/"
+  },
+  {
+    "key": "sky",
+    "name": "Sky Sports",
+    "feed": "https://www.skysports.com/rss/12433",
+    "site": "https://www.skysports.com/f1/news"
+  },
+  {
+    "key": "fia",
+    "name": "FIA",
+    "feed": "https://www.fia.com/rss/press-release",
+    "site": "https://www.fia.com/news",
+    "official": true,
+    "include": "\\bF1\\b|Formula 1|Formula One|Grand Prix"
+  },
+  {
+    "key": "f1",
+    "name": "Formula 1",
+    "feed": "https://www.formula1.com/en/latest/all.xml",
+    "site": "https://www.formula1.com/en/latest",
+    "official": true,
+    "timeline": false
+  }
+]

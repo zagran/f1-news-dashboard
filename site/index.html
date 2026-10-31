@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>F1 news</title>
+  <meta name="description" content="The latest Formula 1 headlines from Formula1.com, the FIA, The Race, Autosport and Sky Sports in one place.">
+  <meta name="color-scheme" content="light dark">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' rx='3' fill='%231c1c1a'/%3E%3Cpath d='M3 3h3v3H3zM9 3h3v3H9zM6 6h3v3H6zM3 9h3v3H3zM9 9h3v3H9z' fill='%23fff'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <script src="config.js"></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#latest">Skip to headlines</a>
+  <div class="wrap">
+    <header class="head">
+      <div class="head-text">
+        <h1>F1 news</h1>
+        <p class="sub" id="summary" aria-live="polite">Loading headlines…</p>
+        <p class="warn" id="warn" hidden></p>
+      </div>
+      <label class="search">
+        <span class="visually-hidden">Search headlines</span>
+        <input id="q" type="search" placeholder="Search headlines, e.g. Verstappen" autocomplete="off" spellcheck="false">
+      </label>
+    </header>
+
+    <main class="grid">
+      <section class="card" id="latest" aria-labelledby="latest-h">
+        <div class="card-head">
+          <h2 id="latest-h">Latest headlines</h2>
+          <p class="note" id="latest-note">Newest first, in your time zone.</p>
+        </div>
+        <div class="chips" id="chips" role="group" aria-label="Show source"></div>
+        <div class="list" id="timeline"></div>
+        <p class="empty" id="timeline-empty" hidden>No headlines match.</p>
+      </section>
+      <div class="side" id="side"></div>
+    </main>
+
+    <footer class="foot">
+      <p>Unofficial. Headlines, summaries and links belong to their publishers. The feeds are checked every 30 minutes. <a href="data/news.json">Raw data</a></p>
+    </footer>
+  </div>
+</body>
+</html>
