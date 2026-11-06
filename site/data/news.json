@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T20:26:25Z",
+  "generated_at": "2026-11-06T01:02:05Z",
   "sources": [
     {
       "key": "therace",
@@ -60,6 +60,126 @@
   ],
   "items": [
     {
+      "id": "f1-925a21463b3b",
+      "source": "f1",
+      "title": "All the stories that got the Sao Paulo paddock talking",
+      "url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-sao-paulo-paddock-talking.1TWHXxrs4N9xUspvYpgb3H",
+      "published": null,
+      "first_seen": "2026-11-06T01:02:05Z",
+      "author": null,
+      "summary": "F1.com's Mike Seymour rounds up all the big talking points ahead of the 2026 Sao Paulo Grand Prix.",
+      "image": null,
+      "rank": 1
+    },
+    {
+      "id": "f1-e69b2de34587",
+      "source": "f1",
+      "title": "Norris wary of new McLaren upgrades in Sao Paulo",
+      "url": "https://www.formula1.com/en/latest/article/want-to-believe-that-we-can-still-make-improvements-norris-wary-of-new-mclaren-upgrades-in-sao-paulo.6NvdXqDIqBz1Mw1xveJv0k",
+      "published": null,
+      "first_seen": "2026-11-06T01:02:05Z",
+      "author": null,
+      "summary": "McLaren will introduce new upgrades for the Sao Paulo Grand Prix this weekend, with Lando Norris stating he wants \"to believe that we can still make improvements\" to this year's car.",
+      "image": null,
+      "rank": 2
+    },
+    {
+      "id": "f1-3bb43e424b47",
+      "source": "f1",
+      "title": "Antonelli reveals 'incredible' messages after becoming champion",
+      "url": "https://www.formula1.com/en/latest/article/the-support-has-been-incredible-antonelli-reveals-favourite-messages-after-becoming-world-champion.1QUQsQTsVGT4o6W3HoSFHa",
+      "published": null,
+      "first_seen": "2026-11-06T01:02:05Z",
+      "author": null,
+      "summary": "Kimi Antonelli admits that \"the support has been incredible\" since he became Formula 1's youngest World Champion, and has revealed his favourite messages ahead of the Sao Paulo Grand Prix.",
+      "image": null,
+      "rank": 3
+    },
+    {
+      "id": "f1-2e635ef4af10",
+      "source": "f1",
+      "title": "Why Russell had ‘to get out’ after Antonelli’s title win",
+      "url": "https://www.formula1.com/en/latest/article/i-need-to-get-out-of-here-russell-reveals-aftermath-of-antonellis-title-triumph-in-mexico.3Ufdj6zo0A9AUGZldRezUJ",
+      "published": null,
+      "first_seen": "2026-11-06T01:02:05Z",
+      "author": null,
+      "summary": "Nearly a week on from the Mexico City Grand Prix, George Russell has dissected his immediate reaction to Kimi Antonelli being crowned champion.",
+      "image": null,
+      "rank": 4
+    },
+    {
+      "id": "f1-a802e5035df3",
+      "source": "f1",
+      "title": "Hamilton wants Ferrari talks in Brazil after Mexico battle",
+      "url": "https://www.formula1.com/en/latest/article/hamilton-wants-ferrari-talks-ahead-of-sao-paulo-grand-prix-after-intra-team-battle-with-leclerc.3JXGpQWTdOA2a9PiH7NL8X",
+      "published": null,
+      "first_seen": "2026-11-06T01:02:05Z",
+      "author": null,
+      "summary": "Lewis Hamilton admits that face-to-face talks between himself and Ferrari team mate Charles Leclerc need to take place at the Sao Paulo Grand Prix this weekend after their on-track battle in Mexico.",
+      "image": null,
+      "rank": 5
+    },
+    {
+      "id": "f1-fd5f2637b3e3",
+      "source": "f1",
+      "title": "A 'big surprise to be second' in the standings – Verstappen",
+      "url": "https://www.formula1.com/en/latest/article/verstappen-admits-its-a-big-surprise-to-be-second-in-the-standings-after-red-bulls-difficulties.2mDpAyOIRGjBoGaZMjrCwO",
+      "published": null,
+      "first_seen": "2026-11-06T01:02:05Z",
+      "author": null,
+      "summary": "Max Verstappen has reflected on how Red Bull’s turnaround has helped him improve to P2 in the Drivers’ Championship.",
+      "image": null,
+      "rank": 6
+    },
+    {
+      "id": "therace-18ae51a5ee48",
+      "source": "therace",
+      "title": "What we learned from day one of F1's Brazilian Grand Prix",
+      "url": "https://www.the-race.com/formula-1/what-we-learned-from-day-one-of-f1s-brazilian-grand-prix/",
+      "published": "2026-11-05T21:34:17Z",
+      "first_seen": "2026-11-06T01:02:05Z",
+      "author": "The Race Team",
+      "summary": "F1's 2026 title might already be officially decided, but that didn't prevent the first day at Interlagos being insightful",
+      "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451219_HiRes.jpg",
+      "rank": 1
+    },
+    {
+      "id": "sky-f91045d55675",
+      "source": "sky",
+      "title": "Explained: What is the fallout at Ferrari after Mexico race start controversy?",
+      "url": "https://www.skysports.com/watch/video/13608625/sao-paulo-gp-what-is-the-fallout-at-ferrari-after-mexico-city-race-start-controversy",
+      "published": "2026-11-05T21:34:00Z",
+      "first_seen": "2026-11-06T01:02:05Z",
+      "author": null,
+      "summary": "Craig Slater outlines what's been the aftermath at Ferrari after Lewis Hamilton and Charles Leclerc's controversial opening lap incident at Mexico City.",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-motorsport-f1-ferrari_7398591.jpg?20261105215010=",
+      "rank": 2
+    },
+    {
+      "id": "sky-5e38f0d48141",
+      "source": "sky",
+      "title": "Hamilton: Leclerc more aggressive racing me than he was Verstappen",
+      "url": "https://www.skysports.com/f1/news/12433/13608314/lewis-hamilton-ferrari-driver-says-team-mate-charles-leclerc-races-him-harder-than-other-f1-rivals",
+      "published": "2026-11-05T20:54:00Z",
+      "first_seen": "2026-11-06T01:02:05Z",
+      "author": null,
+      "summary": "Lewis Hamilton believes Ferrari team-mate Charles Leclerc races against him harder than he does other drivers on the Formula 1 grid.",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-lewis-hamilton-ferrari_7398516.jpg?20261105204413=",
+      "rank": 1
+    },
+    {
+      "id": "sky-7a8e5c652635",
+      "source": "sky",
+      "title": "Russell questions frequency of 'atrocious luck' during 2026 F1 season",
+      "url": "https://www.skysports.com/f1/news/12433/13608315/george-russell-mercedes-driver-questions-frequency-of-atrocious-luck-during-2026-f1-season-after-team-mate-kimi-antonelli-crowned-champion",
+      "published": "2026-11-05T20:30:00Z",
+      "first_seen": "2026-11-06T01:02:05Z",
+      "author": null,
+      "summary": "George Russell has questioned the frequency of the \"atrocious luck\" he believes he has suffered during the 2026 Formula 1 season.",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-george-russell-mercedes_7398505.jpg?20261105203151=",
+      "rank": 3
+    },
+    {
       "id": "f1-2dcf0aca8a1d",
       "source": "f1",
       "title": "'I don’t know what else they want me to do’– Lawson on his future",
@@ -69,7 +189,7 @@
       "author": null,
       "summary": "Liam Lawson has explained how he’s doing everything he can at Racing Bulls in order to retain his seat on the F1 grid.",
       "image": null,
-      "rank": 1
+      "rank": 7
     },
     {
       "id": "f1-6286b6e6212d",
@@ -81,7 +201,7 @@
       "author": null,
       "summary": "Valtteri Bottas admits that his Cadillac Formula 1 future \"should be okay\" amid speculation that the Finn will not be retained by the American team next season.",
       "image": null,
-      "rank": 2
+      "rank": 8
     },
     {
       "id": "f1-15c23ae72680",
@@ -93,7 +213,7 @@
       "author": null,
       "summary": "Rafael Camara states he will \"focus on things that I can control\" as the Brazilian prepares to make his Formula 1 debut with Haas at his home event in the Sao Paulo Grand Prix.",
       "image": null,
-      "rank": 3
+      "rank": 9
     },
     {
       "id": "f1-d1ef5bc11b24",
@@ -105,79 +225,19 @@
       "author": null,
       "summary": "As Lewis Hamilton prepares for his 400th Grand Prix in Brazil, discover the incredible F1 records he holds, including his number of wins, pole positions and podium finishes.",
       "image": null,
-      "rank": 4
-    },
-    {
-      "id": "f1-c739c7e9d0ac",
-      "source": "f1",
-      "title": "Can Hamilton celebrate 400th GP with Brazil win?",
-      "url": "https://www.formula1.com/en/latest/article/can-lewis-hamilton-celebrate-400th-grand-prix-appearance-with-sao-paulo-grand-prix-win.6O8sThsqZ2HQ8Pza5yN58m",
-      "published": null,
-      "first_seen": "2026-11-05T20:26:25Z",
-      "author": null,
-      "summary": "Formula 1 heads to Brazil this weekend, with Lewis Hamilton becoming only the second driver in history to reach 400 Grand Prix starts.",
-      "image": null,
-      "rank": 5
-    },
-    {
-      "id": "f1-60a815f4564c",
-      "source": "f1",
-      "title": "Remembering Williams' first World Champion Alan Jones",
-      "url": "https://www.formula1.com/en/latest/article/obituary-remembering-alan-jones-the-champion-who-took-williams-to-new-heights.6qVxl1O8uJu9kbPiPtfSzo",
-      "published": null,
-      "first_seen": "2026-11-05T20:26:25Z",
-      "author": null,
-      "summary": "David Tremayne takes a look at the incredible life of 1980 World Champion Alan Jones, who has passed away at the age of 80.",
-      "image": null,
-      "rank": 6
-    },
-    {
-      "id": "f1-0776548a9f67",
-      "source": "f1",
-      "title": "Best value early bets for the Sao Paulo Grand Prix",
-      "url": "https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-sao-paulo-grand-prix.3yJRpEDLMRWsN3G4UcfnoO",
-      "published": null,
-      "first_seen": "2026-11-05T20:26:25Z",
-      "author": null,
-      "summary": "We've assessed the latest betting markets and selected our pick of early bets offering the best value at Interlagos.",
-      "image": null,
-      "rank": 7
-    },
-    {
-      "id": "f1-25d8d9769e0b",
-      "source": "f1",
-      "title": "Fluxa Cross to make F1 ACADEMY debut as Las Vegas Wild Card",
-      "url": "https://www.formula1.com/en/latest/article/mercedes-junior-luna-fluxa-cross-to-make-f1-academy-debut-as-las-vegas-wild-card.5OvTeCLa83Orw8Qh1cgYC5",
-      "published": null,
-      "first_seen": "2026-11-05T20:26:25Z",
-      "author": null,
-      "summary": "F1 ACADEMY have announced that Luna Fluxa Cross will make her series debut as the Wild Card entry for the 2026 season finale in Las Vegas.",
-      "image": null,
-      "rank": 8
-    },
-    {
-      "id": "f1-2d4227b7ac60",
-      "source": "f1",
-      "title": "LIVE COVERAGE: Build-up to the Sao Paulo GP weekend",
-      "url": "https://www.formula1.com/en/latest/article/live-coverage-thursday-build-up-in-brazil-2026.c4SLvTtMWKmpWpKa8OQeF",
-      "published": null,
-      "first_seen": "2026-11-05T20:26:25Z",
-      "author": null,
-      "summary": "Live coverage of all the build-up ahead of the 2026 Sao Paulo Grand Prix weekend in Brazil.",
-      "image": null,
-      "rank": 9
-    },
-    {
-      "id": "f1-42129a607392",
-      "source": "f1",
-      "title": "Facts, stats and trivia ahead of the Sao Paulo Grand Prix",
-      "url": "https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-sao-paulo-grand-prix.3w1LZutz0yrGfP2Iz38vd8",
-      "published": null,
-      "first_seen": "2026-11-05T20:26:25Z",
-      "author": null,
-      "summary": "As F1 heads to the Autodromo Jose Carlos Pace for the Sao Paulo Grand Prix, Need To Know is your all-in-one guide with statistics, driving pointers, strategy tips and more.",
-      "image": null,
       "rank": 10
+    },
+    {
+      "id": "sky-3e2ee3482213",
+      "source": "sky",
+      "title": "Lawson left without 'any options' amid doubt over 2027 F1 seat",
+      "url": "https://www.skysports.com/f1/live-blog/12433/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
+      "published": "2026-11-05T20:00:00Z",
+      "first_seen": "2026-11-04T18:09:13Z",
+      "author": null,
+      "summary": null,
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-liam-lawson-racing-bulls_7398529.jpg?20261105210548=",
+      "rank": 5
     },
     {
       "id": "therace-7f43723d44ab",
@@ -189,7 +249,7 @@
       "author": "Jon Noble",
       "summary": "Ferrari will have a crunch meeting with its drivers on Friday in Brazil, as Lewis Hamilton vows \"I'll never be silenced\".",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451078_HiRes.jpg",
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "autosport-2618e7f2abd5",
@@ -213,7 +273,7 @@
       "author": null,
       "summary": "Kimi Antonelli has revealed details of his celebrations after being crowned Formula 1 world champion, along with some of the messages he received in the aftermath of his historic triumph.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-kimi-antonelli-mercedes_7398369.jpg?20261105181725=",
-      "rank": 1
+      "rank": 4
     },
     {
       "id": "therace-ac0a7d9a2492",
@@ -225,7 +285,7 @@
       "author": "Scott Mitchell-Malm",
       "summary": "Valtteri Bottas has revealed what Cadillac are changing after his monster shunt in Mexico",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450338_HiRes.jpg",
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "autosport-78c8fba88518",
@@ -236,7 +296,7 @@
       "first_seen": "2026-11-05T20:26:25Z",
       "author": null,
       "summary": "If Rafa Camara felt any nerves about making his F1 debut earlier than expected, on home soil no less, then he didn't show it. The Ferrari junior has been drafted in to replace Esteban Ocon at Haas next year, and already starts that journey this weekend after Ocon's high-profile…",
-      "image": "https://cdn-8.motorsport.com/images/amp/YE9EpZ1Y/s6/rafael-camara-haas-f1-team-2.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/YE9EpZ1Y/s6/rafael-camara-haas-f1-team-2.jpg",
       "rank": 2
     },
     {
@@ -249,7 +309,7 @@
       "author": "Samarth Kanal",
       "summary": "Apple has its eye on expanding its F1 presence beyond the US",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1447749_HiRes.jpg",
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "therace-25ea6cbdd21d",
@@ -261,7 +321,7 @@
       "author": "Scott Mitchell-Malm",
       "summary": "Honda got caught out by its Formula 1 engine’s lack of robustness in a new way in Mexico, which has already prompted countermeasures for this weekend’s race in Brazil.",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1450351_HiRes.jpg",
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "autosport-4dbdaf73d608",
@@ -272,7 +332,7 @@
       "first_seen": "2026-11-05T12:53:25Z",
       "author": null,
       "summary": "After Kimi Antonelli earned his maiden Formula 1 world title at the Mexico Grand Prix, Mercedes can add a ninth constructors’ trophy to its record in Brazil. The Silver Arrows have won 12 out of 19 grands prix so far this season, meaning they comfortably lead the championship.…",
-      "image": "https://cdn-5.motorsport.com/images/amp/2GdKZbEY/s6/george-russell-mercedes-andrea-2.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/2GdKZbEY/s6/george-russell-mercedes-andrea-2.jpg",
       "rank": 3
     },
     {
@@ -285,7 +345,7 @@
       "author": "Edd Straw",
       "summary": "Edd Straw explains the two main reasons Charles Leclerc and Lewis Hamilton have become so tough for Ferrari to manage in F1 2026",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1434355_HiRes.jpg",
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "therace-6106be84ef7b",
@@ -297,7 +357,7 @@
       "author": "Mark Hughes",
       "summary": "Strong like an ox, the most aggressive wheel-to-wheel racer who scared the living daylights out of his rivals. This is what made Alan Jones special",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1029711_HiRes.jpg",
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "autosport-c0cf09632973",
@@ -308,7 +368,7 @@
       "first_seen": "2026-11-05T12:53:25Z",
       "author": null,
       "summary": "Alan Jones, who has died aged 80 after a short illness, could or should have been a multiple Formula 1 world champion. The 1980 title winner’s shock decision to quit at the end of 1981 opened the door for Keke Rosberg to join Williams, where the Finn took the 1982 crown. Jones…",
-      "image": "https://cdn-7.motorsport.com/images/amp/6zQ9lGlY/s6/alan-jones-williams-fw07b-ford-2.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/6zQ9lGlY/s6/alan-jones-williams-fw07b-ford-2.jpg",
       "rank": 4
     },
     {
@@ -321,7 +381,7 @@
       "author": "Ben Anderson",
       "summary": "Alan Jones, the 1980 Formula 1 world champion and first F1 title winner for the Williams F1 team, has passed away after a short illness",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1029577_HiRes.jpg",
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "sky-6acaac7ac7c6",
@@ -333,7 +393,7 @@
       "author": null,
       "summary": "Former Formula 1 world champion Alan Jones has died at the age of 80 following a brief illness.",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-alan-jones-formula-1_7397567.jpg?20261105064304=",
-      "rank": 3
+      "rank": 6
     },
     {
       "id": "sky-1c6214ce4b1a",
@@ -345,7 +405,7 @@
       "author": null,
       "summary": "Lando Norris is unsure if McLaren's upgrades at this weekend's Sao Paulo Grand Prix will improve the \"horrible\" handling on the car.",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-f1-lando-norris_7396808.jpg?20261104122757=",
-      "rank": 2
+      "rank": 8
     },
     {
       "id": "therace-19cc874e028a",
@@ -357,7 +417,7 @@
       "author": "The Race Team",
       "summary": "The Race F1 Podcast delves into Esteban Ocon's abrupt exit and Rafa Camara's sudden debut",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1439443_HiRes.jpg",
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "sky-3becc46c8797",
@@ -369,7 +429,7 @@
       "author": null,
       "summary": null,
       "image": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-colton-herta_7392206.jpg?20261030195306=",
-      "rank": 8
+      "rank": 11
     },
     {
       "id": "sky-96151f3e6247",
@@ -381,7 +441,7 @@
       "author": null,
       "summary": "Sky Sports has strengthened its award-winning Formula 1 team with the appointment of Alexa Rendell as F1 Multimedia Journalist, as the broadcaster looks to bring even more fans closer to the sport.",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-alexa-rendell_7396786.jpg?20261104120506=",
-      "rank": 9
+      "rank": 13
     },
     {
       "id": "autosport-8173c6df09da",
@@ -392,7 +452,7 @@
       "first_seen": "2026-11-04T18:09:13Z",
       "author": null,
       "summary": "Fresh doubts have emerged over the future of Cadillac Formula 1's majority ownership amid reports Mark Walter's TWG Global is looking to offload some of its shares - with Liverpool FC owner Fenway Sports Group said to be among the interested parties. US billionaire Walter and…",
-      "image": "https://cdn-2.motorsport.com/images/amp/0Zq8bZL6/s6/sergio-perez-cadillac.jpg",
+      "image": "https://cdn-3.motorsport.com/images/amp/0Zq8bZL6/s6/sergio-perez-cadillac.jpg",
       "rank": 5
     },
     {
@@ -405,19 +465,7 @@
       "author": "Josh Suttill",
       "summary": "Colton Herta is getting most of the attention as Cadillac considers replacing Valtteri Bottas for F1 2027. But Mercedes has a contender too",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Spacesuit-CE-F1-MXGP-30-10-26-2144-1.jpg",
-      "rank": 9
-    },
-    {
-      "id": "sky-3e2ee3482213",
-      "source": "sky",
-      "title": "Leclerc to arrive late to Brazil after birth of child",
-      "url": "https://www.skysports.com/f1/live-blog/12433/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
-      "published": "2026-11-04T12:50:00Z",
-      "first_seen": "2026-11-04T18:09:13Z",
-      "author": null,
-      "summary": null,
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-charles-leclerc_7396842.jpg?20261104124351=",
-      "rank": 11
+      "rank": 10
     },
     {
       "id": "sky-9cc39000452c",
@@ -429,7 +477,7 @@
       "author": null,
       "summary": "Sky Sports F1's Bernie Collins has suggested Ferrari should introduce repercussions rule to the team after Lewis Hamilton and Charles Leclerc's contentious incident in Mexico.",
       "image": "https://e1.365dm.com/26/06/1920x1080/skysports-charles-leclerc-lewis-hamilton_7263572.jpg?20260602111826=",
-      "rank": 4
+      "rank": 7
     },
     {
       "id": "therace-5a581e3ace3a",
@@ -441,7 +489,7 @@
       "author": "The Race Team",
       "summary": "How has Brembo established itself as F1's go-to brake supplier with relationships with all 11 teams?",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/_BD18503.jpg",
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "autosport-560c2ba45c3d",
@@ -452,7 +500,7 @@
       "first_seen": "2026-11-04T18:09:13Z",
       "author": null,
       "summary": "There's really not much reason to think otherwise: it looks increasingly likely that this could be the end of Esteban Ocon's active Formula 1 career. A career blessed with plenty of highlights, a handful of podiums and a victory scored behind the wheel of a car that wasn't…",
-      "image": "https://cdn-8.motorsport.com/images/amp/2eZxl1aY/s6/esteban-ocon-haas-f1-team-2.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/2eZxl1aY/s6/esteban-ocon-haas-f1-team-2.jpg",
       "rank": 6
     },
     {
@@ -465,7 +513,7 @@
       "author": "Scott Mitchell-Malm",
       "summary": "IndyCar title sponsor NTT will join McLaren's F1 team as an official partner in 2027",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/The-NTT-IndyCar-Series-logo-on-the-nosecone-of-the-No_-9-PNC-Bank-Honda-of-Scott-Dixon-during-the-team-test-at-WeatherTech-Raceway-Laguna-Seca_Large-Image-Without-Watermark_m6625.jpg",
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "autosport-143c08aa0bbc",
@@ -476,7 +524,7 @@
       "first_seen": "2026-11-04T18:09:13Z",
       "author": null,
       "summary": "Mercedes team principal Toto Wolff has admitted to ‘letting George Russell down’ at Formula 1’s Mexico Grand Prix, with the Briton’s bid for victory derailed within seconds by a technical issue. Russell was starting from the front row alongside Lewis Hamilton at Autodromo…",
-      "image": "https://cdn-4.motorsport.com/images/amp/25dLDgN0/s6/george-russell-mercedes-2.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/25dLDgN0/s6/george-russell-mercedes-2.jpg",
       "rank": 7
     },
     {
@@ -488,7 +536,7 @@
       "first_seen": "2026-11-04T18:09:13Z",
       "author": null,
       "summary": "Cadillac test driver Colton Herta will conduct his sixth Friday practice session of the Formula 1 season at this weekend's Brazil Grand Prix to collect his missing FIA superlicence point required to race in the series. Herta, who has been building up for an F1 campaign with…",
-      "image": "https://cdn-1.motorsport.com/images/amp/6n7ABxe0/s6/colton-herta-cadillac-f1-team-2.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/6n7ABxe0/s6/colton-herta-cadillac-f1-team-2.jpg",
       "rank": 8
     },
     {
@@ -501,7 +549,7 @@
       "author": "Josh Suttill",
       "summary": "Our take on Esteban Ocon's permanent Haas F1 exit and Rafael Camara's debut",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1449311_HiRes.jpg",
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "therace-af1957efd82a",
@@ -513,7 +561,7 @@
       "author": "Edd Straw",
       "summary": "Ferrari's big engine deficit is obsecuring a very real victory of Fred Vasseur's tenure",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Spacesuit-CE-F1-MXGP-01-11-26-7504.jpg",
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "sky-64648065a667",
@@ -525,7 +573,7 @@
       "author": null,
       "summary": "Mercedes boss Toto Wolff says newly crowned world champion Kimi Antonelli should be a role model for both upcoming drivers and some of his “entitled” Formula 1 rivals.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-toto-wolff-kimi-antonelli_7395219.jpg?20261102192508=",
-      "rank": 7
+      "rank": 12
     },
     {
       "id": "therace-c0b0cf8c93c3",
@@ -537,7 +585,7 @@
       "author": "Josh Suttill",
       "summary": "Cadillac will give Colton Herta another practice outing at the Brazilian GP to earn him the point he needs to finally secure his F1 superlicence",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1448586_HiRes.jpg",
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "autosport-135bf7a83149",
@@ -548,7 +596,7 @@
       "first_seen": "2026-11-04T18:09:13Z",
       "author": null,
       "summary": "The Haas Formula 1 team has decided that Esteban Ocon will not race again for the squad, with 2027 rookie Rafael Camara getting an early debut this weekend on home soil. Following increasingly strained relations between Ocon and the squad, a heated argument in Mexico proved the…",
-      "image": "https://cdn-3.motorsport.com/images/amp/27No9rm0/s6/esteban-ocon-haas-f1-team-4.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/27No9rm0/s6/esteban-ocon-haas-f1-team-4.jpg",
       "rank": 9
     },
     {
@@ -561,19 +609,7 @@
       "author": null,
       "summary": "Haas have confirmed Esteban Ocon will not race for the team again this season with Formula 2 championship leader Rafael Camara set to make his Formula 1 debut at this weekend's Sao Paulo Grand Prix.",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-esteban-ocon_7395255.jpg?20261104091948=",
-      "rank": 10
-    },
-    {
-      "id": "therace-825e08e4f0fa",
-      "source": "therace",
-      "title": "Haas drops Ocon for rest of 2026 F1 season",
-      "url": "https://www.the-race.com/formula-1/haas-drops-ocon-for-rest-of-2026-f1-season/",
-      "published": "2026-11-03T20:45:13Z",
-      "first_seen": "2026-11-03T22:12:13Z",
-      "author": "Scott Mitchell-Malm",
-      "summary": "Esteban Ocon has been permanently dropped by Haas and will be replaced by Rafa Camara for Interlagos",
-      "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1447657_HiRes.jpg",
-      "rank": 15
+      "rank": 14
     },
     {
       "id": "autosport-be6867e261db",
@@ -596,7 +632,7 @@
       "first_seen": "2026-11-03T16:56:28Z",
       "author": null,
       "summary": "McLaren will introduce upgrades to its MCL40 Formula 1 car at this weekend’s Brazil Grand Prix, featuring a front wing concept which is expected to feature on its 2027 challenger. The team had surged to the front when it substantially updated the MCL40 in Hungary, with Lando…",
-      "image": "https://cdn-5.motorsport.com/images/amp/YP741QG2/s6/lando-norris-mclaren-2.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/YP741QG2/s6/lando-norris-mclaren-2.jpg",
       "rank": 11
     },
     {
@@ -608,7 +644,7 @@
       "first_seen": "2026-11-03T16:56:28Z",
       "author": null,
       "summary": "In its Mexico Grand Prix preview, Honda’s Shintaro Orihara had described Autodromo Hermanos Rodriguez as “a very challenging track for the power unit”, but he perhaps didn’t expect Aston Martin’s weekend to go so awry. Despite decent pace and mileage in free practice – Fernando…",
-      "image": "https://cdn-3.motorsport.com/images/amp/6x7Lb1rY/s6/lance-stroll-aston-martin-raci-2.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/6x7Lb1rY/s6/lance-stroll-aston-martin-raci-2.jpg",
       "rank": 12
     },
     {
@@ -621,7 +657,7 @@
       "author": null,
       "summary": "Liam Lawson has admitted he has been given \"no assurance\" about retaining his seat at Racing Bulls for 2027.",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-liam-lawson_7395163.jpg?20261103161550=",
-      "rank": 12
+      "rank": 15
     },
     {
       "id": "autosport-c6b079ddecf4",
@@ -632,7 +668,7 @@
       "first_seen": "2026-11-03T16:56:28Z",
       "author": null,
       "summary": "Although Sunday at the Autodromo Hermanos Rodriguez was above all Kimi Antonelli's day, there were naturally two other major storylines in the Formula 1 paddock: the tensions at Ferrari and how Fred Vasseur will manage them, plus Max Verstappen's sixth victory in Mexico. When…",
-      "image": "https://cdn-4.motorsport.com/images/amp/Y9lNZvb2/s6/max-verstappen-red-bull-racing-3.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/Y9lNZvb2/s6/max-verstappen-red-bull-racing-3.jpg",
       "rank": 13
     },
     {
@@ -645,7 +681,7 @@
       "author": null,
       "summary": "Sky Sports F1's Martin Brundle believes George Russell must find an \"overdrive\" to hit back at losing this year's Formula 1 Drivers' Championship to Kimi Antonelli.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-george-russell_7395117.jpg?20261103164603=",
-      "rank": 13
+      "rank": 16
     },
     {
       "id": "sky-9f2abf393375",
@@ -657,7 +693,7 @@
       "author": null,
       "summary": "Lewis Hamilton has called for \"serious talks\" at Ferrari after his opening lap incident with Charles Leclerc at the Mexico City Grand Prix, while team principal Frederic Vasseur suggested there was not enough \"respect\" given.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-lewis-hamilton_7395057.jpg?20261102160829=",
-      "rank": 14
+      "rank": 17
     },
     {
       "id": "sky-38944fecd01c",
@@ -669,7 +705,7 @@
       "author": null,
       "summary": "George Russell has posted a statement on social media to \"speak from the heart\" after his Mercedes team-mate Kimi Antonelli secured the F1 Drivers' Championship on Sunday.",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-george-russell-mercedes-f1_7395249.jpg?20261102195707=",
-      "rank": 15
+      "rank": 18
     },
     {
       "id": "sky-f62a03d8cd32",
@@ -681,19 +717,7 @@
       "author": null,
       "summary": "How Antonelli's Drivers' Championship sounded with Italian commentary!",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-kimi-antonelli_7395171.jpg?20261102182209=",
-      "rank": 16
-    },
-    {
-      "id": "sky-4550e93f52eb",
-      "source": "sky",
-      "title": "Ferrari civil war? Hamilton and Leclerc's most HEATED clashes this season",
-      "url": "https://www.skysports.com/watch/video/13607190/f1-lewis-hamilton-and-charles-leclercs-most-heated-clashes-this-season",
-      "published": "2026-11-02T16:39:00Z",
-      "first_seen": "2026-11-03T09:00:03Z",
-      "author": null,
-      "summary": "Watch the most heated clashes between Ferrari team-mates Lewis Hamilton and Charles Leclerc this season.",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-ferrari-f1_7395107.jpg?20261102165605=",
-      "rank": 18
+      "rank": 19
     },
     {
       "id": "autosport-4d87ce7d36ca",
@@ -704,7 +728,7 @@
       "first_seen": "2026-11-02T19:55:28Z",
       "author": null,
       "summary": "Kimi Antonelli’s record-breaking Formula 1 world championship triumph was highlighted by many superb performances. But which one was his best? Antonelli duly wrapped up his maiden F1 crown in Mexico with four rounds to spare – becoming the youngest-ever world champion in the…",
-      "image": "https://cdn-5.motorsport.com/images/amp/63Qa3m72/s6/lewis-hamilton-ferrari-max-ver-2.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/63Qa3m72/s6/lewis-hamilton-ferrari-max-ver-2.jpg",
       "rank": 14
     },
     {
@@ -717,7 +741,7 @@
       "author": null,
       "summary": "Just days after Kimi Antonelli became Formula 1's youngest world champion, Mercedes have an opportunity to win the Constructors' Championship this weekend in Brazil.",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-f1-kimi-antonelli_7394988.jpg?20261102145833=",
-      "rank": 5
+      "rank": 9
     },
     {
       "id": "sky-800077639baf",
@@ -729,7 +753,7 @@
       "author": null,
       "summary": "After a thrilling weekend in Mexico where Kimi Antonelli was crowned world champion, Formula 1 heads straight to Brazil for the Sao Paulo Grand Prix.",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-brazil-start-interlagos_7394885.jpg?20261102133138=",
-      "rank": 6
+      "rank": 10
     },
     {
       "id": "autosport-1458a22d5517",
@@ -740,7 +764,7 @@
       "first_seen": "2026-11-02T19:55:28Z",
       "author": null,
       "summary": "Lewis Hamilton has criticised team-mate Charles Leclerc for his “do or die” attitude after Ferrari lost a straightforward victory at the Formula 1 Mexico Grand Prix. The seven-time world champion started on pole at Autodromo Hermanos Rodriguez with Leclerc third, but he rose to…",
-      "image": "https://cdn-8.motorsport.com/images/amp/27No4lK0/s6/lewis-hamilton-ferrari-2.jpg",
+      "image": "https://cdn-2.motorsport.com/images/amp/27No4lK0/s6/lewis-hamilton-ferrari-2.jpg",
       "rank": 15
     },
     {
@@ -753,7 +777,7 @@
       "author": null,
       "summary": "This is how it was meant to be.",
       "image": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-formula-one-kimi-antonelli_7387829.jpg?20261026124622=",
-      "rank": 17
+      "rank": 20
     },
     {
       "id": "autosport-5a6f57c20e2a",
@@ -764,7 +788,7 @@
       "first_seen": "2026-11-02T09:45:36Z",
       "author": null,
       "summary": "Oscar Piastri’s tough Mexico Grand Prix weekend has ended in point-less fashion, after the McLaren Formula 1 driver copped a penalty for his collision with Arvid Lindblad. Piastri’s 60-strong streak of Q3 appearances (including sprints) ended at Autodromo Hermanos Rodriguez as…",
-      "image": "https://cdn-7.motorsport.com/images/amp/0mXyZvk6/s6/oscar-piastri-mclaren-2.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/0mXyZvk6/s6/oscar-piastri-mclaren-2.jpg",
       "rank": 16
     },
     {
@@ -776,20 +800,8 @@
       "first_seen": "2026-11-02T09:45:36Z",
       "author": null,
       "summary": "Pierre Gasly and Franco Colapinto have both been given post-race penalties which have dropped them out of the points and resulted in Haas debutant Ryo Hirakawa scoring on his Formula 1 debut at the Mexico Grand Prix. Both Alpine drivers faced post-race investigations with the…",
-      "image": "https://cdn-3.motorsport.com/images/amp/0mXyZ4G6/s6/pierre-gasly-alpine-franco-col.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/0mXyZ4G6/s6/pierre-gasly-alpine-franco-col.jpg",
       "rank": 17
-    },
-    {
-      "id": "sky-d93ae3fd4489",
-      "source": "sky",
-      "title": "Antonelli watches back emotional video of his journey to world champion",
-      "url": "https://www.skysports.com/watch/video/13606907/kimi-antonelli-watches-back-emotional-video-of-his-journey-to-f1-world-champion",
-      "published": "2026-11-02T00:58:00Z",
-      "first_seen": "2026-11-02T09:45:36Z",
-      "author": null,
-      "summary": "Kimi Antonelli watches back a montage of videos from his journey from go-karting, to F1's youngest champion.",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-kimi-antonelli_7394454.jpg?20261102010843=",
-      "rank": 20
     },
     {
       "id": "autosport-e6617ff1e521",
@@ -812,19 +824,7 @@
       "first_seen": "2026-11-02T02:04:35Z",
       "author": null,
       "summary": "Lewis Hamilton has called for “serious talks” at Ferrari following his clash with team-mate Charles Leclerc in Formula 1’s Mexico Grand Prix. Polesitter Hamilton was challenged by Leclerc from third after front-row starter George Russell lost momentum ahead of Turn 1. The…",
-      "image": "https://cdn-6.motorsport.com/images/amp/63QaE1D2/s6/charles-leclerc-ferrari-lewis-.jpg",
-      "rank": 19
-    },
-    {
-      "id": "sky-c16508b4833c",
-      "source": "sky",
-      "title": "How Antonelli has rewritten Formula 1's record books",
-      "url": "https://www.skysports.com/f1/news/12433/13606995/kimi-antonelli-how-formula-1s-newest-world-champion-has-rewritten-the-record-books-at-barely-20-years-of-age",
-      "published": "2026-11-01T22:50:00Z",
-      "first_seen": "2026-11-02T19:55:28Z",
-      "author": null,
-      "summary": "Formula 1 has its 36th world champion after Kimi Antonelli clinched his maiden title by finishing third at the Mexico City Grand Prix.",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-formula-one-mercedes_7390623.jpg?20261029084155=",
+      "image": "https://cdn-3.motorsport.com/images/amp/63QaE1D2/s6/charles-leclerc-ferrari-lewis-.jpg",
       "rank": 19
     },
     {
@@ -836,7 +836,7 @@
       "first_seen": "2026-11-01T22:56:24Z",
       "author": null,
       "summary": "Kimi Antonelli has written history by becoming Formula 1's youngest-ever world champion at the Mexico Grand Prix, as Red Bull's Max Verstappen beat Ferrari's Lewis Hamilton to win the race. Verstappen seized control of the race during the only pitstop of the race on lap 28 of…",
-      "image": "https://cdn-9.motorsport.com/images/amp/63Qa3m72/s6/lewis-hamilton-ferrari-max-ver-5.jpg",
+      "image": "https://cdn-6.motorsport.com/images/amp/63Qa3m72/s6/lewis-hamilton-ferrari-max-ver-5.jpg",
       "rank": 20
     },
     {
@@ -848,7 +848,7 @@
       "first_seen": "2026-11-01T22:56:24Z",
       "author": null,
       "summary": "The FIA stewards have explained the reasoning behind Charles Leclerc’s five-second penalty in Formula 1’s Mexico Grand Prix. Leclerc was starting the race from third at Autodromo Hermanos Rodriguez with team-mate Lewis Hamilton on pole position; as George Russell dropped like a…",
-      "image": "https://cdn-3.motorsport.com/images/amp/YMXb5Q12/s6/charles-leclerc-ferrari.jpg",
+      "image": "https://cdn-5.motorsport.com/images/amp/YMXb5Q12/s6/charles-leclerc-ferrari.jpg",
       "rank": 21
     },
     {
@@ -872,7 +872,7 @@
       "first_seen": "2026-11-01T07:03:17Z",
       "author": null,
       "summary": "Liam Lawson has lost his ninth-place starting position for the Formula 1 Mexico City Grand Prix. Racing Bulls impressed at the Autodromo Hermanos Rodriguez on Saturday and managed to get both cars into Q3. The team subsequently emerged as the 'best of the rest' in eighth and…",
-      "image": "https://cdn-5.motorsport.com/images/amp/YpbA99Z0/s6/liam-lawson-racing-bulls.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/YpbA99Z0/s6/liam-lawson-racing-bulls.jpg",
       "rank": 23
     },
     {
@@ -884,7 +884,7 @@
       "first_seen": "2026-11-01T00:36:39Z",
       "author": null,
       "summary": "Max Verstappen qualified fourth for the Formula 1 Mexico City Grand Prix, but will have to drop one place on the starting grid, meaning he will start from the third row. The reason is remarkable, to say the least: contact with Liam Lawson - two drivers from the Red Bull teams…",
-      "image": "https://cdn-7.motorsport.com/images/amp/2eZxbVKY/s6/max-verstappen-red-bull-racing-2.jpg",
+      "image": "https://cdn-9.motorsport.com/images/amp/2eZxbVKY/s6/max-verstappen-red-bull-racing-2.jpg",
       "rank": 24
     },
     {
@@ -896,7 +896,7 @@
       "first_seen": "2026-11-01T00:36:39Z",
       "author": null,
       "summary": "Kimi Antonelli is hoping to overcome an off-colour Mexico City Grand Prix qualifying session with a good night's rest, but admits Formula 1 title nerves have led to him driving with unwanted tension. The Italian was just 0.001s slower than Lando Norris' FP3 headliner earlier in…",
-      "image": "https://cdn-9.motorsport.com/images/amp/YvKB13G6/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/YvKB13G6/s6/andrea-kimi-antonelli-mercedes.jpg",
       "rank": 25
     },
     {
@@ -908,7 +908,7 @@
       "first_seen": "2026-11-01T00:36:39Z",
       "author": null,
       "summary": "Dropped Haas Formula 1 driver Esteban Ocon has denied French media rumours of a physical altercation with team boss Ayao Komatsu as he issued his response to missing this weekend's Mexico Grand Prix. Ocon was benched in Mexico, most likely connected to a public disagreement with…",
-      "image": "https://cdn-7.motorsport.com/images/amp/0qgKEB8Y/s6/esteban-ocon-haas-f1-team-3.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/0qgKEB8Y/s6/esteban-ocon-haas-f1-team-3.jpg",
       "rank": 26
     },
     {
@@ -920,7 +920,7 @@
       "first_seen": "2026-11-01T00:36:39Z",
       "author": null,
       "summary": "Lewis Hamilton has earned Ferrari its first pole of the 2026 Formula 1 campaign by defeating George Russell in a thrilling qualifying shootout for the Mexico Grand Prix. Russell had taken provisional pole away from Charles Leclerc with his final run at the Autodromo Hermanos…",
-      "image": "https://cdn-8.motorsport.com/images/amp/YBVjz7vY/s6/lewis-hamilton-ferrari-2.jpg",
+      "image": "https://cdn-1.motorsport.com/images/amp/YBVjz7vY/s6/lewis-hamilton-ferrari-2.jpg",
       "rank": 27
     },
     {
@@ -932,7 +932,7 @@
       "first_seen": "2026-10-31T21:46:31Z",
       "author": null,
       "summary": "Reigning world champion Lando Norris has topped third and final practice at Formula 1's Mexico Grand Prix, beating championship leader Kimi Antonelli in a tight session at the Autodromo Hermanos Rodriguez. Norris dipped just 0.001s under Antonelli's initial benchmark as all four…",
-      "image": "https://cdn-2.motorsport.com/images/amp/2wlKOl3Y/s6/lando-norris-mclaren-2.jpg",
+      "image": "https://cdn-8.motorsport.com/images/amp/2wlKOl3Y/s6/lando-norris-mclaren-2.jpg",
       "rank": 28
     },
     {
@@ -944,7 +944,7 @@
       "first_seen": "2026-10-31T18:20:50Z",
       "author": null,
       "summary": "Although Red Bull has turned its 2026 Formula 1 season around in impressive fashion, the technical team led by Pierre Wache is still dealing with several limitations behind the scenes. One of the main ones is perhaps the wind tunnel, the oldest on the entire F1 grid. Former team…",
-      "image": "https://cdn-5.motorsport.com/images/amp/68VwRk42/s6/max-verstappen-red-bull-racing-2.jpg",
+      "image": "https://cdn-4.motorsport.com/images/amp/68VwRk42/s6/max-verstappen-red-bull-racing-2.jpg",
       "rank": 29
     },
     {
@@ -956,7 +956,7 @@
       "first_seen": "2026-10-31T17:50:00Z",
       "author": null,
       "summary": "The Haas Formula 1 team has made the shock decision to replace Esteban Ocon with reserve driver Ryo Hirakawa for the remainder of the Mexico Grand Prix weekend. Hirakawa will act as Oliver Bearman’s team-mate for final practice, qualifying and Sunday’s race, having also taken…",
-      "image": "https://cdn-9.motorsport.com/images/amp/68VwR8V2/s6/esteban-ocon-haas-f1-team.jpg",
+      "image": "https://cdn-7.motorsport.com/images/amp/68VwR8V2/s6/esteban-ocon-haas-f1-team.jpg",
       "rank": 30
     },
     {
