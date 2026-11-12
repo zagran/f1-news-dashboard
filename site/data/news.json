@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T22:24:57Z",
+  "generated_at": "2026-11-12T03:12:26Z",
   "sources": [
     {
       "key": "therace",
@@ -70,6 +70,18 @@
       "summary": "Former Red Bull and McLaren racer Daniel Ricciardo sat down with F1 to take a look back at his career highlights, from his sublime Monaco victory to unforgettable 'shoey' celebration.",
       "image": null,
       "rank": 1
+    },
+    {
+      "id": "sky-126baa8030cb",
+      "source": "sky",
+      "title": "Hamilton urges Israel to 'let the aid trucks in' to Gaza after Rafah border visit",
+      "url": "https://www.skysports.com/f1/news/12433/13611222/lewis-hamilton-ferraris-seven-time-f1-world-champion-urges-israel-to-let-the-aid-trucks-in-to-gaza-after-visit-to-rafah-border",
+      "published": "2026-11-11T20:48:00Z",
+      "first_seen": "2026-11-12T03:12:26Z",
+      "author": null,
+      "summary": "Lewis Hamilton urged Israel to \"let the aid trucks in\" to Gaza after visiting the Rafah border.",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-lewis-hamilton-gaza_7404385.jpg?20261111210852=",
+      "rank": 3
     },
     {
       "id": "f1-ed27256bd729",
@@ -249,7 +261,7 @@
       "author": null,
       "summary": null,
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-f1-academy-silverstone_7289752.jpg?20260704183210=",
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "sky-bb70f772ee2c",
@@ -285,7 +297,7 @@
       "author": null,
       "summary": "Speaking on The F1 Show, Damon Hill says that Ferrari needs to settle a 'political problem' regarding if the team should be built around Lewis Hamilton.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-hamilton_7403336.jpg?20261110171221=",
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "sky-e3207fd2f12e",
@@ -297,7 +309,7 @@
       "author": null,
       "summary": "This year's edition of the Sao Paulo Grand Prix at Interlagos served up its usual fascinating challenges and surprises. The race was great, perhaps only missing a late surprise or crescendo.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-kimi-antonelli-mercedes_7403229.jpg?20261110153210=",
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "autosport-c040375c255d",
@@ -333,7 +345,7 @@
       "author": null,
       "summary": "Formula 1 chiefs are proceeding with plans to hold the final two rounds of 2026 in the Middle East after a deadline to move one of the season-ending races to Italy passed.",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-qatar-f1-lusail-start_7402330.jpg?20261109162249=",
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "sky-30574818f1cd",
@@ -345,7 +357,7 @@
       "author": null,
       "summary": "No further engine upgrade opportunities have been granted to Formula 1's power unit manufacturers following the third and final review period of the 2026 season, the FIA has confirmed.",
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-f1-max-verstappen_7343158.jpg?20261110121646=",
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "autosport-265d9ddd75af",
@@ -393,7 +405,7 @@
       "author": null,
       "summary": "Mercedes have begun Formula 1's latest generation of rules with a dominant title double, but all indications suggest the sport could be in for a thrilling era of competition.",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-mercedes-ferrari_7402281.jpg?20261109152446=",
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "therace-8afb184a4910",
@@ -453,7 +465,7 @@
       "author": null,
       "summary": "Onboard with Lewis Hamilton and Max Verstappen who gain 21 positions between them from the start of Sao Paulo GP.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-sao-paulo-gp_7402253.jpg?20261109151219=",
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "sky-f6e82f468569",
@@ -465,7 +477,7 @@
       "author": null,
       "summary": "Lando Norris believes McLaren are \"not at the level to fight for a world championship\" despite his dominant win in mixed conditions at the Sao Paulo Grand Prix.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-lando-norris_7402085.jpg?20261109121814=",
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "autosport-c118f62fb5df",
@@ -489,7 +501,7 @@
       "author": null,
       "summary": "Oscar Piastri has split from his management team, led by former Red Bull driver and nine-time Formula 1 winner Mark Webber and his partner Ann Webber.",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-oscar-piastri_7401995.jpg?20261109105916=",
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "sky-760e01501f09",
@@ -501,7 +513,7 @@
       "author": null,
       "summary": "New angles of Lando Norris shattering his champagne bottle on the podium after winning the Sao Paulo Grand Prix.",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-norris-f1_7402063.jpg?20261109120041=",
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "therace-0787e7e6a9de",
@@ -573,7 +585,7 @@
       "author": null,
       "summary": "Toto Wolff says he's \"proud\" of Mercedes' turnaround to win the 2026 Formula 1 Constructors' Championship and feels very few sports teams have bounced back so quickly.",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-kimi-antonelli-george-russell_7401701.jpg?20261108223038=",
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "sky-2f1b9bd5ea01",
@@ -585,7 +597,7 @@
       "author": null,
       "summary": "Lewis Hamilton says a lack of information led to him overriding Ferrari's call for him to come into the pits as rain fell during the closing stages of the Sao Paulo Grand Prix.",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-lewis-hamilton-ferrari_7401680.jpg?20261108220239=",
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "autosport-67c385461281",
@@ -621,7 +633,7 @@
       "author": null,
       "summary": "Follow live updates and watch the best video from the Sao Paulo Grand Prix in Brazil. Watch live on Sky Sports F1",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-charles-leclerc_7401655.jpg?20261108212932=",
-      "rank": 19
+      "rank": 20
     },
     {
       "id": "autosport-d5640d3acef1",
@@ -636,18 +648,6 @@
       "rank": 8
     },
     {
-      "id": "sky-edaa3c2171ec",
-      "source": "sky",
-      "title": "SkyPad analysis: How Verstappen went from 21st to 2nd at the Sao Paulo GP!",
-      "url": "https://www.skysports.com/watch/video/13609959/how-max-verstappen-maximised-car-potential-after-going-from-21st-to-2nd",
-      "published": "2026-11-08T19:50:00Z",
-      "first_seen": "2026-11-08T23:51:44Z",
-      "author": null,
-      "summary": "Karun Chandhok looks at how Max Verstappen went from 21st to 2nd at Interlagos.",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-f1-sao-paulo_7401582.jpg?20261108201031=",
-      "rank": 20
-    },
-    {
       "id": "sky-e9d9721c40f9",
       "source": "sky",
       "title": "Mercedes party on podium after sealing constructors title",
@@ -657,7 +657,7 @@
       "author": null,
       "summary": "Mercedes party on the podium after sealing their ninth Constructors' Championship title.",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-mercedes-f1_7401472.jpg?20261108192233=",
-      "rank": 16
+      "rank": 17
     },
     {
       "id": "sky-1313fd1eade2",
@@ -669,7 +669,7 @@
       "author": null,
       "summary": "Highlights from the 2026 Sao Paulo Grand Prix.",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-sao-paulo-f1_7401456.jpg?20261108191322=",
-      "rank": 18
+      "rank": 19
     },
     {
       "id": "sky-fdd5449a4b7b",
@@ -681,7 +681,7 @@
       "author": null,
       "summary": "Lando Norris shatters champagne bottle after attempting his trademark podium celebration after winning Sao Paulo GP.",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-norris-f1_7401445.jpg?20261108190954=",
-      "rank": 15
+      "rank": 16
     },
     {
       "id": "autosport-7f2b02a35326",
@@ -705,7 +705,7 @@
       "author": null,
       "summary": "McLaren's Lando Norris recovered from a poor start to claim a dominant victory in a wet Sao Paulo Grand Prix that saw Mercedes seal the 2026 Formula 1 Constructors' Championship.",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-lando-norris-mclaren_7401420.jpg?20261108185535=",
-      "rank": 17
+      "rank": 18
     },
     {
       "id": "autosport-644961761b66",
