@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T07:31:58Z",
+  "generated_at": "2026-11-13T15:50:23Z",
   "sources": [
     {
       "key": "therace",
@@ -60,6 +60,90 @@
   ],
   "items": [
     {
+      "id": "f1-6e5b7ecbc07a",
+      "source": "f1",
+      "title": "Why are F1 drivers obsessed with padel?",
+      "url": "https://www.formula1.com/en/latest/article/why-f1-drivers-love-padel-as-aston-martin-become-the-latest-to-embrace-the-sport.2n2jOtb63TbalovQuHIIUi",
+      "published": null,
+      "first_seen": "2026-11-13T15:50:23Z",
+      "author": null,
+      "summary": "Padel has become increasingly popular among F1 drivers, with Aston Martin the latest team to embrace the sport through a new racket collection.",
+      "image": null,
+      "rank": 1
+    },
+    {
+      "id": "f1-b61346b98b00",
+      "source": "f1",
+      "title": "Toto Wolff's journey from Williams to nine F1 titles",
+      "url": "https://www.formula1.com/en/latest/article/toto-wolffs-journey-from-williams-to-nine-time-champion-with-mercedes.2l85DG3mfUyL5icscw0Gbn",
+      "published": null,
+      "first_seen": "2026-11-13T15:50:23Z",
+      "author": null,
+      "summary": "Discover Toto Wolff's journey from professional racing driver to team boss at Mercedes, where he has overseen nine Constructors' Championships, equalling Sir Frank Williams.",
+      "image": null,
+      "rank": 2
+    },
+    {
+      "id": "f1-7f3a5f64f39a",
+      "source": "f1",
+      "title": "F1 ACADEMY Champion Palmowski graduates to Formula Regional",
+      "url": "https://www.formula1.com/en/latest/article/f1-academy-champion-alisha-palmowski-graduates-to-formula-regional-with-fully-funded-seat.39A1mu7n4LQ3ljJdTyFlhW",
+      "published": null,
+      "first_seen": "2026-11-13T15:50:23Z",
+      "author": null,
+      "summary": "F1 ACADEMY Champion Alisha Palmowski will make the step up to the Formula Regional European Championship (FREC), with F1 ACADEMY and Red Bull Racing announcing she will receive a fully-funded seat with Rodin Motorsport for the 2027 season.",
+      "image": null,
+      "rank": 3
+    },
+    {
+      "id": "f1-5f8c1a229bfc",
+      "source": "f1",
+      "title": "Mercedes' incredible history of Formula 1 success",
+      "url": "https://www.formula1.com/en/latest/article/mercedes-incredible-success-through-formula-1-history.7yLliKc36ZI9pd7xzNYFwq",
+      "published": null,
+      "first_seen": "2026-11-13T15:50:23Z",
+      "author": null,
+      "summary": "As Mercedes claim their ninth F1 Constructors' title in 2026, discover the Silver Arrows' incredible history in Formula 1.",
+      "image": null,
+      "rank": 4
+    },
+    {
+      "id": "therace-69785e1deb8d",
+      "source": "therace",
+      "title": "How Madrid F1 race’s economic impact compares to Barcelona’s",
+      "url": "https://www.the-race.com/business/how-madrid-f1-races-economic-impact-compares-to-barcelonas/",
+      "published": "2026-11-13T11:24:59Z",
+      "first_seen": "2026-11-13T15:50:23Z",
+      "author": "Samarth Kanal",
+      "summary": "The inaugural 2026 Spanish Formula 1 Grand Prix at the Madring created €544 million in economic activity, supported 10,948 jobs, and generated €95m in tax revenue, according to its organiser",
+      "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1436818_HiRes.jpg",
+      "rank": 1
+    },
+    {
+      "id": "autosport-e642fff6c7d5",
+      "source": "autosport",
+      "title": "The Antonelli you don't know: Inside the Mercedes garage with F1's new world champion",
+      "url": "https://www.autosport.com/f1/news/the-antonelli-you-dont-know-inside-the-mercedes-garage-with-f1s-new-world-champion/10874265/",
+      "published": "2026-11-13T10:04:48Z",
+      "first_seen": "2026-11-13T15:50:23Z",
+      "author": null,
+      "summary": "Mercedes mechanics have learned to watch their backs. Not because of the dangers of a pitstop, but because of Kimi Antonelli. Formula 1's newly crowned world champion has a rather unusual habit. He approaches members of his crew, greets them and, when they least expect it, gives…",
+      "image": "https://cdn-8.motorsport.com/images/amp/0o5AwKwY/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "rank": 1
+    },
+    {
+      "id": "therace-b8ecc7eda51b",
+      "source": "therace",
+      "title": "Ferrari's Leclerc-Hamilton problem is far from solved",
+      "url": "https://www.the-race.com/formula-1/ferrari-leclerc-hamilton-f1-problem-far-from-solved/",
+      "published": "2026-11-13T07:52:40Z",
+      "first_seen": "2026-11-13T15:50:23Z",
+      "author": "Josh Suttill",
+      "summary": "Don't be fooled by Charles Leclerc and Lewis Hamilton playing nicely in Brazil - their Ferrari F1 tensions are alive and well",
+      "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/261108_R20_BRAZIL_DP_FGO08149_05ba8680-c2fd-4e37-a8aa-17dbaf7a4ddb.jpg",
+      "rank": 2
+    },
+    {
       "id": "sky-4ba7d7998dc5",
       "source": "sky",
       "title": "Happy birthday Lando! Relive the moment he became F1 world champion last year!",
@@ -81,7 +165,7 @@
       "author": null,
       "summary": "Formula 1 heads for the bright lights of Las Vegas with both 2026 titles settled, but the competitive picture at the front of the grid tighter than it has been at any other stage of the season.",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-lando-norris-mclaren_7404230.jpg?20261111162623=",
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "sky-126baa8030cb",
@@ -105,7 +189,7 @@
       "author": null,
       "summary": "Following Racing Bulls’ confirmation of their unchanged driver line-up, Lawrence Barretto dissects everything that’s still left to play for on the 2027 grid.",
       "image": null,
-      "rank": 1
+      "rank": 5
     },
     {
       "id": "f1-728762c5d248",
@@ -117,7 +201,7 @@
       "author": null,
       "summary": null,
       "image": null,
-      "rank": 2
+      "rank": 6
     },
     {
       "id": "f1-6e64c20f4815",
@@ -129,7 +213,7 @@
       "author": null,
       "summary": "Formula 2 racer Nikola Tsolov will step up to a role as Red Bull and Racing Bulls’ reserve driver next season.",
       "image": null,
-      "rank": 3
+      "rank": 7
     },
     {
       "id": "f1-ecb2813a87a9",
@@ -141,7 +225,7 @@
       "author": null,
       "summary": "Mercedes driver George Russell has founded a karting academy to support and develop the next generation of young racers.",
       "image": null,
-      "rank": 4
+      "rank": 8
     },
     {
       "id": "f1-fa660de5aed1",
@@ -153,7 +237,7 @@
       "author": null,
       "summary": "Racing Bulls have retained Liam Lawson and Arvid Lindblad for 2027, but with Red Bull junior Nikola Tsolov pushing for promotion, Lawrence Barretto looks at why they decided against a change?",
       "image": null,
-      "rank": 5
+      "rank": 9
     },
     {
       "id": "therace-a5469d81ec68",
@@ -165,7 +249,7 @@
       "author": "Jon Noble",
       "summary": "The FIA has announced the hearing date for Audi’s appeal against Yuki Tsunoda not getting a penalty at Formula 1’s Italian Grand Prix",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1434343_HiRes.jpg",
-      "rank": 1
+      "rank": 3
     },
     {
       "id": "fia-aefcd16d3f3d",
@@ -189,7 +273,7 @@
       "author": "Josh Suttill",
       "summary": "Red Bull has named Nikola Tsolov the official reserve driver of both of its Formula 1 teams in 2027",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/SI202610300433_hires_jpeg_24bit_rgb.jpg",
-      "rank": 2
+      "rank": 4
     },
     {
       "id": "autosport-4296d51b9ed0",
@@ -200,8 +284,8 @@
       "first_seen": "2026-11-12T19:24:45Z",
       "author": null,
       "summary": "Nikola Tsolov has been named as reserve driver for both Red Bull and Racing Bulls for the 2027 Formula 1 season having missed out on a full-time drive. The 19-year-old Bulgarian had been linked to a step up from F2 to replace Liam Lawson at Racing Bulls in 2027, but after weeks…",
-      "image": "https://cdn-9.motorsport.com/images/amp/6x7LbPRY/s6/nikola-tsolov-racing-bulls-4.jpg",
-      "rank": 1
+      "image": "https://cdn-1.motorsport.com/images/amp/6x7LbPRY/s6/nikola-tsolov-racing-bulls-4.jpg",
+      "rank": 2
     },
     {
       "id": "therace-4472d4897148",
@@ -213,7 +297,7 @@
       "author": "Jon Noble",
       "summary": "Liam Lawson has secured another year with Racing Bulls - but is it the right move?",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Spacesuit-CE-F1-BGP-06-11-26-0862.jpg",
-      "rank": 3
+      "rank": 5
     },
     {
       "id": "autosport-283ac0678d56",
@@ -225,7 +309,7 @@
       "author": null,
       "summary": "Formula 1 star George Russell has launched a karting academy in partnership with Silverstone to make motorsport more accessible and discover the next young superstar. The eight-time grand prix winner launched his GR63 Karting Academy on Thursday with it open to boys and girls…",
       "image": "https://cdn-3.motorsport.com/images/amp/YvKB3V16/s6/gr63-academy-unveil-2.jpg",
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "f1-23f039f17f54",
@@ -237,7 +321,7 @@
       "author": null,
       "summary": "Racing Bulls will retain their current pairing of Liam Lawson and Arvid Lindblad for the upcoming 2027 season.",
       "image": null,
-      "rank": 6
+      "rank": 10
     },
     {
       "id": "therace-a7c7bddf2b36",
@@ -249,7 +333,7 @@
       "author": "Edd Straw",
       "summary": "Liam Lawson's Racing Bulls seat was in genuine jeopardy - but he made himself undroppable",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453595_HiRes.jpg",
-      "rank": 4
+      "rank": 6
     },
     {
       "id": "therace-936cec21fb93",
@@ -261,7 +345,7 @@
       "author": "Jon Noble",
       "summary": "Liam Lawson will remain at Racing Bulls next season after the squad announced an unchanged Formula 1 line-up for 2027",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453177_HiRes.jpg",
-      "rank": 5
+      "rank": 7
     },
     {
       "id": "autosport-2204a9550877",
@@ -272,8 +356,8 @@
       "first_seen": "2026-11-12T11:37:19Z",
       "author": null,
       "summary": "Racing Bulls has confirmed Liam Lawson will stay with the team for the 2027 Formula 1 campaign, partnering Arvid Lindblad for a second, straight season. They have formed a formidable duo this year having propelled Racing Bulls to fifth in the championship, which is set to be the…",
-      "image": "https://cdn-4.motorsport.com/images/amp/6grQG3nY/s6/liam-lawson-racing-bulls-2.jpg",
-      "rank": 3
+      "image": "https://cdn-3.motorsport.com/images/amp/6grQG3nY/s6/liam-lawson-racing-bulls-2.jpg",
+      "rank": 4
     },
     {
       "id": "sky-64244fe12cdd",
@@ -297,7 +381,7 @@
       "author": "Fleur Mealing",
       "summary": "Mercedes driver launches the GR63 Karting Academy to uncover young talent",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/ef265f93-5a8d-3d01-35f8-d53b568c07d0--1-.jpeg",
-      "rank": 6
+      "rank": 8
     },
     {
       "id": "therace-406cd73d744e",
@@ -309,7 +393,7 @@
       "author": "Jon Noble",
       "summary": "The start of an F1 rules cycle usually offers clues about what will follow. While Mercedes wrapped these titles up with ease, don't expect a repeat",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1436943_HiRes.jpg",
-      "rank": 7
+      "rank": 9
     },
     {
       "id": "sky-424d44315497",
@@ -324,54 +408,6 @@
       "rank": 13
     },
     {
-      "id": "f1-4748cfd5f766",
-      "source": "f1",
-      "title": "Ricciardo reacts to his best career moments",
-      "url": "https://www.formula1.com/en/latest/article/i-know-f1-is-serious-but-we-can-still-make-it-fun-ricciardo-reacts-to-his-best-career-moments.NaM7kMUTZmxIzbRrJPoHY",
-      "published": null,
-      "first_seen": "2026-11-11T22:24:57Z",
-      "author": null,
-      "summary": "Former Red Bull and McLaren racer Daniel Ricciardo sat down with F1 to take a look back at his career highlights, from his sublime Monaco victory to unforgettable 'shoey' celebration.",
-      "image": null,
-      "rank": 7
-    },
-    {
-      "id": "f1-ed27256bd729",
-      "source": "f1",
-      "title": "Bruno Senna recounts Antonelli’s visit to his family farm",
-      "url": "https://www.formula1.com/en/latest/article/it-showed-why-hes-a-world-champion-bruno-senna-recounts-antonellis-visit-to-his-family-farm.29P3uPrOthkJo2tTjljCwW",
-      "published": null,
-      "first_seen": "2026-11-11T15:45:38Z",
-      "author": null,
-      "summary": "In the latest episode of official podcast F1 Beyond The Grid, Bruno Senna opened up on Kimi Antonelli's emotional visit to the family estate of three-time champion Ayrton Senna.",
-      "image": null,
-      "rank": 8
-    },
-    {
-      "id": "f1-ebac7c54cd48",
-      "source": "f1",
-      "title": "Where do Mercedes rank among Teams' Championship winners",
-      "url": "https://www.formula1.com/en/latest/article/where-do-mercedes-rank-in-the-list-of-constructors-championship-winners.4Cr98XypZEcBtcbsBqOtEB",
-      "published": null,
-      "first_seen": "2026-11-11T15:45:38Z",
-      "author": null,
-      "summary": "The Sao Paulo Grand Prix last weekend proved to be a day of celebration for Mercedes, as the German manufacturer secured the 2026 Constructors' Championship.",
-      "image": null,
-      "rank": 9
-    },
-    {
-      "id": "f1-49f9ba3437a1",
-      "source": "f1",
-      "title": "Bearman relieved ‘horrible three weeks’ for Haas are over",
-      "url": "https://www.formula1.com/en/latest/article/bearman-relieved-horrible-three-weeks-for-haas-are-over.2DZIcOEVILLVUfQT00bStA",
-      "published": null,
-      "first_seen": "2026-11-11T15:45:38Z",
-      "author": null,
-      "summary": "Ollie Bearman finished 17th in Sao Paulo on Sunday and afterwards cut a despondent figure as he revealed how pleased he was to be heading home after a tough triple header.",
-      "image": null,
-      "rank": 10
-    },
-    {
       "id": "therace-d7e55bf67ea1",
       "source": "therace",
       "title": "Hamilton loses 'most marketable athlete' status in 2026",
@@ -381,7 +417,7 @@
       "author": "Samarth Kanal",
       "summary": "Lewis Hamilton has dropped down SportsPro's marketable athlete rankings - with Charles Leclerc now the F1 leader there",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451289_HiRes.jpg",
-      "rank": 8
+      "rank": 10
     },
     {
       "id": "therace-26703d9d564f",
@@ -393,7 +429,7 @@
       "author": "Scott Mitchell-Malm",
       "summary": "Honda's worrying return of F1 reliability problems includes a new issue",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452387_HiRes.jpg",
-      "rank": 9
+      "rank": 11
     },
     {
       "id": "autosport-4c605c6243d2",
@@ -404,8 +440,8 @@
       "first_seen": "2026-11-11T15:45:38Z",
       "author": null,
       "summary": "The question of what might happen in a wet race has vexed Formula 1's stakeholders since before the beginning of the season. It's also prompted some unnecessarily hysterical commentary throughout the year, peaking in the run-up to last weekend's Brazilian Grand Prix at…",
-      "image": "https://cdn-7.motorsport.com/images/amp/Y9lNzqb2/s6/oscar-piastri-mclaren-2.jpg",
-      "rank": 4
+      "image": "https://cdn-5.motorsport.com/images/amp/Y9lNzqb2/s6/oscar-piastri-mclaren-2.jpg",
+      "rank": 5
     },
     {
       "id": "therace-992cbe1140df",
@@ -417,7 +453,7 @@
       "author": "Jon Noble",
       "summary": "The wet weather tyres that have divided F1 driver opinion will change for 2027 - here's what we know",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Spacesuit-CE-F1-BGP-07-11-26-9011.jpg",
-      "rank": 10
+      "rank": 12
     },
     {
       "id": "sky-747d32af0955",
@@ -429,19 +465,19 @@
       "author": null,
       "summary": "Williams team principal James Vowles has admitted his squad \"got carried away\" with their success last season but insists a disappointing 2026 campaign is merely \"a blip\".",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-james-vowles-williams_7403380.jpg?20261110185518=",
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "sky-406f98a0ad50",
       "source": "sky",
-      "title": "F1 Academy to make Budapest debut as 2027 calendar confirmed",
+      "title": "F1 Academy champion Palmowski lands Red Bull junior team spot",
       "url": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
       "published": "2026-11-10T19:00:00Z",
       "first_seen": "2026-11-10T20:31:52Z",
       "author": null,
       "summary": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-f1-academy-silverstone_7289752.jpg?20260704183210=",
-      "rank": 12
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-alisha-palmowski_7386147.jpg?20261024203143=",
+      "rank": 4
     },
     {
       "id": "sky-bb70f772ee2c",
@@ -453,7 +489,7 @@
       "author": null,
       "summary": "Former Formula 1 world champion Damon Hill has insisted Ferrari should back the \"extraordinary\" Lewis Hamilton over his team-mate Charles Leclerc if they want to have a chance of winning next year's drivers' title.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-lewis-hamilton-charles_7403348.jpg?20261110173907=",
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "therace-20d9128275a5",
@@ -465,7 +501,7 @@
       "author": "Samarth Kanal",
       "summary": "Liberty Media founder and ex-chairman John Malone has sold his significant voting power in F1's parent company",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453856_HiRes.jpg",
-      "rank": 11
+      "rank": 13
     },
     {
       "id": "sky-6501c976e8e9",
@@ -477,7 +513,7 @@
       "author": null,
       "summary": "Speaking on The F1 Show, Damon Hill says that Ferrari needs to settle a 'political problem' regarding if the team should be built around Lewis Hamilton.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-hamilton_7403336.jpg?20261110171221=",
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "sky-e3207fd2f12e",
@@ -489,7 +525,7 @@
       "author": null,
       "summary": "This year's edition of the Sao Paulo Grand Prix at Interlagos served up its usual fascinating challenges and surprises. The race was great, perhaps only missing a late surprise or crescendo.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-kimi-antonelli-mercedes_7403229.jpg?20261110153210=",
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "autosport-c040375c255d",
@@ -501,7 +537,7 @@
       "author": null,
       "summary": "The Qatar and Abu Dhabi grands prix which will conclude Formula 1’s 2026 season are set to proceed as planned, provided there is no dramatic escalation of the Iran war. The Middle Eastern conflict, which started in late February as the United States and Israel launched strikes…",
       "image": "https://cdn-4.motorsport.com/images/amp/6x7Lz8jY/s6/lando-norris-mclaren-liam-laws-2.jpg",
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "therace-53867ac4d144",
@@ -513,7 +549,7 @@
       "author": "Jon Noble",
       "summary": "Imola has been formally stood down as a fall-back option for Formula 1's 2026 season finale",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/testpirelliimola-charleslecler5.webp",
-      "rank": 12
+      "rank": 14
     },
     {
       "id": "sky-3c6f070686c6",
@@ -525,7 +561,7 @@
       "author": null,
       "summary": "Formula 1 chiefs are proceeding with plans to hold the final two rounds of 2026 in the Middle East after a deadline to move one of the season-ending races to Italy passed.",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-qatar-f1-lusail-start_7402330.jpg?20261109162249=",
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "sky-30574818f1cd",
@@ -537,7 +573,7 @@
       "author": null,
       "summary": "No further engine upgrade opportunities have been granted to Formula 1's power unit manufacturers following the third and final review period of the 2026 season, the FIA has confirmed.",
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-f1-max-verstappen_7343158.jpg?20261110121646=",
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "autosport-265d9ddd75af",
@@ -549,7 +585,7 @@
       "author": null,
       "summary": "The FIA has announced its final Additional Development and Upgrade Opportunities (ADUO) results for the 2026 Formula 1 season, with no changes granted for any of the power unit manufacturers. From this season, the FIA installed a mechanism in the F1 regulations which allowed…",
       "image": "https://cdn-3.motorsport.com/images/amp/0kZX9KA6/s6/lando-norris-mclaren-liam-laws-2.jpg",
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "therace-7071f5749e5d",
@@ -561,19 +597,7 @@
       "author": "Jack Cozens",
       "summary": "The FIA's third round of analysis of Formula 1 engine performance has been concluded",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452940_HiRes.jpg",
-      "rank": 13
-    },
-    {
-      "id": "therace-3356e89aea96",
-      "source": "therace",
-      "title": "F1's underrated rain master has proven himself again",
-      "url": "https://www.the-race.com/formula-1/f1s-underrated-rain-master-has-proven-himself-again/",
-      "published": "2026-11-10T08:54:32Z",
-      "first_seen": "2026-11-10T13:11:11Z",
-      "author": "Edd Straw",
-      "summary": "Why does one F1 driver keep having to prove his clearly excellent wet-weather credentials? Edd Straw investigates",
-      "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Spacesuit-CE-F1-BGP-07-11-26-9087.jpg",
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "sky-2359e97387fc",
@@ -588,18 +612,6 @@
       "rank": 14
     },
     {
-      "id": "therace-8afb184a4910",
-      "source": "therace",
-      "title": "Did Red Bull car problems cost Verstappen Brazilian GP victory?",
-      "url": "https://www.the-race.com/formula-1/did-red-bull-car-problems-cost-verstappen-brazilian-gp-victory/",
-      "published": "2026-11-09T19:01:33Z",
-      "first_seen": "2026-11-09T23:04:26Z",
-      "author": "Josh Suttill",
-      "summary": "Should Max Verstappen's 21st to second Brazilian GP charge actually have ended with victory?",
-      "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453679_HiRes.jpg",
-      "rank": 15
-    },
-    {
       "id": "autosport-82a9bc0cb4ca",
       "source": "autosport",
       "title": "What's behind Piastri's split with Webber – and what it means for his F1 career",
@@ -609,7 +621,7 @@
       "author": null,
       "summary": "On the Monday after the Formula 1 Brazilian Grand Prix, Oscar Piastri and Mark Webber announced in a joint statement that the latter and Ann Neal would no longer manage the 25-year-old McLaren driver. The timing may come as a surprise – now rather than at the end of the season –…",
       "image": "https://cdn-6.motorsport.com/images/amp/6DGg5rKY/s6/oscar-piastri-mclaren-with-mar.jpg",
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "sky-a35b29e817bb",
@@ -644,8 +656,8 @@
       "first_seen": "2026-11-09T13:10:47Z",
       "author": null,
       "summary": "When job security is in short supply, there's one solution for an Formula 1 driver. Be so good they can't ignore you. That's easier said than done, but it certainly seems to be what Liam Lawson has taken to heart as he battled for his future over the recent Americas…",
-      "image": "https://cdn-3.motorsport.com/images/amp/YK15ARz0/s6/liam-lawson-racing-bulls-3.jpg",
-      "rank": 8
+      "image": "https://cdn-4.motorsport.com/images/amp/YK15ARz0/s6/liam-lawson-racing-bulls-3.jpg",
+      "rank": 9
     },
     {
       "id": "sky-5c50e95a820d",
@@ -680,8 +692,8 @@
       "first_seen": "2026-11-09T13:10:47Z",
       "author": null,
       "summary": "Oscar Piastri and Mark Webber have mutually agreed to terminate their management agreement, the pair have announced. Webber and his wife Ann – who ran Mark’s career herself back in the day – became Piastri’s managers in 2019, the year the youngster narrowly beat Victor Martins…",
-      "image": "https://cdn-4.motorsport.com/images/amp/0Zq8VN46/s6/oscar-piastri-mclaren-with-mar-2.jpg",
-      "rank": 9
+      "image": "https://cdn-8.motorsport.com/images/amp/0Zq8VN46/s6/oscar-piastri-mclaren-with-mar-2.jpg",
+      "rank": 10
     },
     {
       "id": "sky-9a1dbde27e51",
@@ -716,8 +728,8 @@
       "first_seen": "2026-11-08T23:51:44Z",
       "author": null,
       "summary": "Charles Leclerc was handed a five-second penalty after the Formula 1 Brazilian Grand Prix for his clash with Liam Lawson, dropping the Ferrari driver down to eighth place in the final results. The Monegasque was battling the Racing Bulls driver for seventh place on lap 69 of the…",
-      "image": "https://cdn-7.motorsport.com/images/amp/0Zq8VdL6/s6/charles-leclerc-ferrari-arvid-.jpg",
-      "rank": 10
+      "image": "https://cdn-1.motorsport.com/images/amp/0Zq8VdL6/s6/charles-leclerc-ferrari-arvid-.jpg",
+      "rank": 11
     },
     {
       "id": "autosport-d5640d3acef1",
@@ -728,8 +740,8 @@
       "first_seen": "2026-11-08T23:51:44Z",
       "author": null,
       "summary": "Kimi Antonelli vowed to put aside his Brazilian Grand Prix anger to celebrate Mercedes winning the Formula 1 constructors' title, as he rued the balance issues and the spin that took him out of victory contention. The new world champion had picked up the lead from polesitter…",
-      "image": "https://cdn-8.motorsport.com/images/amp/2eZx8n9Y/s6/andrea-kimi-antonelli-mercedes-2.jpg",
-      "rank": 11
+      "image": "https://cdn-7.motorsport.com/images/amp/2eZx8n9Y/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "rank": 12
     },
     {
       "id": "autosport-7f2b02a35326",
@@ -740,8 +752,8 @@
       "first_seen": "2026-11-08T20:05:29Z",
       "author": null,
       "summary": "Lando Norris has snared his third win of 2026 in a mixed weather Formula 1 Brazilian Grand Prix, defeating a resurgent Max Verstappen while Mercedes claimed the world constructors' championship. After reclaiming the lead from his world champion successor Kimi Antonelli early on…",
-      "image": "https://cdn-9.motorsport.com/images/amp/0JXRprQY/s6/lando-norris-mclaren-4.jpg",
-      "rank": 12
+      "image": "https://cdn-8.motorsport.com/images/amp/0JXRprQY/s6/lando-norris-mclaren-4.jpg",
+      "rank": 13
     },
     {
       "id": "autosport-644961761b66",
@@ -752,8 +764,8 @@
       "first_seen": "2026-11-08T15:42:15Z",
       "author": null,
       "summary": "With Lewis Hamilton and Max Verstappen 20th and 21st on the grid of the Brazilian Grand Prix, Sunday’s Formula 1 race promises to be fascinating – regardless of weather conditions. Hamilton and Verstappen happen to be two drivers who performed memorable recoveries at Autodromo…",
-      "image": "https://cdn-7.motorsport.com/images/amp/YBVj1bMY/s6/lewis-hamilton-ferrari-max-ver-2.jpg",
-      "rank": 13
+      "image": "https://cdn-8.motorsport.com/images/amp/YBVj1bMY/s6/lewis-hamilton-ferrari-max-ver-2.jpg",
+      "rank": 14
     },
     {
       "id": "autosport-21ec394a774a",
@@ -765,7 +777,7 @@
       "author": null,
       "summary": "One hour, 23 minutes. You could've squeezed most of a football match into the rain delay during Formula 1 qualifying for the Sao Paulo Grand Prix, and it looked for all the world like the session wouldn't actually get going again. A repeat of 2024, where qualifying was squeezed…",
       "image": "https://cdn-5.motorsport.com/images/amp/0qgK1NQY/s6/rafael-camara-haas-f1-team-3.jpg",
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "autosport-ecc51665a260",
@@ -776,8 +788,8 @@
       "first_seen": "2026-11-07T22:52:45Z",
       "author": null,
       "summary": "In keeping with the theme of the Brazilian Grand Prix's weather-hit qualifying, George Russell had a thunderous look on his face when he faced the Formula 1 media in the post-session press conference. The title has gone and a five-place grid penalty for an engine swap meant…",
-      "image": "https://cdn-7.motorsport.com/images/amp/0kZX9Qy6/s6/george-russell-mercedes.jpg",
-      "rank": 15
+      "image": "https://cdn-3.motorsport.com/images/amp/0kZX9Qy6/s6/george-russell-mercedes.jpg",
+      "rank": 16
     },
     {
       "id": "autosport-ab6a5547b163",
@@ -788,8 +800,8 @@
       "first_seen": "2026-11-07T22:52:45Z",
       "author": null,
       "summary": "Lewis Hamilton has revealed he and Charles Leclerc have cleared the air in Sao Paulo following their clash at the Formula 1 Mexico Grand Prix and the tensions have been “squashed”. Moreover, the seven-time world champion insists it didn't require Fred Vasseur's involvement – as…",
-      "image": "https://cdn-6.motorsport.com/images/amp/6DGgbp7Y/s6/charles-leclerc-ferrari-lewis--2.jpg",
-      "rank": 16
+      "image": "https://cdn-9.motorsport.com/images/amp/6DGgbp7Y/s6/charles-leclerc-ferrari-lewis--2.jpg",
+      "rank": 17
     },
     {
       "id": "autosport-b8fbe9116a1c",
@@ -800,8 +812,8 @@
       "first_seen": "2026-11-07T22:52:45Z",
       "author": null,
       "summary": "McLaren's Lando Norris has claimed pole in a wet qualifying session at Formula 1's Brazilian Grand Prix, beating George Russell on a treacherous Interlagos circuit. In a challenging session that was red-flagged by over an hour due to heavy rain and standing water, Norris topped…",
-      "image": "https://cdn-8.motorsport.com/images/amp/6b8ZM8L2/s6/lando-norris-mclaren-3.jpg",
-      "rank": 17
+      "image": "https://cdn-7.motorsport.com/images/amp/6b8ZM8L2/s6/lando-norris-mclaren-3.jpg",
+      "rank": 18
     },
     {
       "id": "autosport-3cb8424e1f50",
@@ -812,8 +824,8 @@
       "first_seen": "2026-11-07T19:14:00Z",
       "author": null,
       "summary": "Lewis Hamilton will have to start Formula 1’s Brazilian Grand Prix from the back of the grid, Ferrari has announced. Hamilton was given his fifth internal combustion engine of the season on Saturday morning, landing a 10-place grid drop as he was exceeding his quota for the…",
-      "image": "https://cdn-3.motorsport.com/images/amp/0qgKrwgY/s6/lewis-hamilton-ferrari-2.jpg",
-      "rank": 18
+      "image": "https://cdn-5.motorsport.com/images/amp/0qgKrwgY/s6/lewis-hamilton-ferrari-2.jpg",
+      "rank": 19
     },
     {
       "id": "autosport-eae835bbf8d9",
@@ -824,8 +836,8 @@
       "first_seen": "2026-11-07T19:14:00Z",
       "author": null,
       "summary": "Max Verstappen set the fastest time in Free Practice 3 at Formula 1’s Brazilian Grand Prix, narrowly edging out Kimi Antonelli as Lewis Hamilton’s Ferrari suffered a mechanical issue. The impending threat of rain meant all drivers rushed onto the track – especially Nico…",
-      "image": "https://cdn-3.motorsport.com/images/amp/6x7L93jY/s6/max-verstappen-red-bull-racing-2.jpg",
-      "rank": 19
+      "image": "https://cdn-7.motorsport.com/images/amp/6x7L93jY/s6/max-verstappen-red-bull-racing-2.jpg",
+      "rank": 20
     },
     {
       "id": "autosport-a747d5c4d381",
@@ -836,8 +848,8 @@
       "first_seen": "2026-11-07T19:14:00Z",
       "author": null,
       "summary": "Lewis Hamilton, Charles Leclerc and Max Verstappen will all serve grid penalties for engine changes at Formula 1's Brazilian Grand Prix. Following a tough set of Friday practice sessions, Ferrari has decided to perform a planned engine change on both Hamilton and Leclerc’s…",
-      "image": "https://cdn-9.motorsport.com/images/amp/YBVj1bMY/s6/lewis-hamilton-ferrari-max-ver.jpg",
-      "rank": 20
+      "image": "https://cdn-4.motorsport.com/images/amp/YBVj1bMY/s6/lewis-hamilton-ferrari-max-ver.jpg",
+      "rank": 21
     },
     {
       "id": "autosport-dd1aab528aee",
@@ -848,8 +860,8 @@
       "first_seen": "2026-11-07T14:35:14Z",
       "author": null,
       "summary": "The Brazilian Grand Prix will remain on the Formula 1 calendar until at least 2035 after stakeholders agreed a five-year contract extension. Officially dubbed the Sao Paulo Grand Prix to reflect the financial contribution of the city council, the Brazil race last signed a…",
-      "image": "https://cdn-3.motorsport.com/images/amp/6O7zlya6/s6/gabriel-bortoleto-audi-f1-team.jpg",
-      "rank": 21
+      "image": "https://cdn-4.motorsport.com/images/amp/6O7zlya6/s6/gabriel-bortoleto-audi-f1-team.jpg",
+      "rank": 22
     },
     {
       "id": "autosport-de7aa9fdad2f",
@@ -860,8 +872,8 @@
       "first_seen": "2026-11-07T14:35:14Z",
       "author": null,
       "summary": "Ayao Komatsu says “everybody was surprised” when he told the Haas squad that Esteban Ocon wouldn’t compete for the outfit in Formula 1’s Mexican Grand Prix. Ocon was dropped by Haas after a falling-out following Friday practice at Autodromo Hermanos Rodriguez. Despite widespread…",
-      "image": "https://cdn-2.motorsport.com/images/amp/0rVPoPO0/s6/esteban-ocon-haas-f1-team-2.jpg",
-      "rank": 22
+      "image": "https://cdn-5.motorsport.com/images/amp/0rVPoPO0/s6/esteban-ocon-haas-f1-team-2.jpg",
+      "rank": 23
     },
     {
       "id": "autosport-a78b7f6da82f",
@@ -872,8 +884,8 @@
       "first_seen": "2026-11-06T21:41:47Z",
       "author": null,
       "summary": "Newly-minted world champion Kimi Antonelli topped Friday's second practice session at the Brazilian GP, heading Lando Norris and Max Verstappen in Sao Paulo. At the classic 4.3km Interlagos circuit, Antonelli set his quickest time just before the halfway mark of FP2 as drivers…",
-      "image": "https://cdn-4.motorsport.com/images/amp/68VwEnB2/s6/andrea-kimi-antonelli-mercedes-2.jpg",
-      "rank": 23
+      "image": "https://cdn-5.motorsport.com/images/amp/68VwEnB2/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "rank": 24
     },
     {
       "id": "autosport-f49b1e0bc458",
@@ -885,7 +897,7 @@
       "author": null,
       "summary": "Ferrari F1 chief Fred Vasseur insists he has cleared the air with Charles Leclerc and Lewis Hamilton after their highly publicised Mexican Grand Prix clash last week. At the Mexico City event, Hamilton and Leclerc both went off track on lap one as they fought for the lead, with…",
       "image": "https://cdn-8.motorsport.com/images/amp/0R7BMbg2/s6/fred-vasseur-ferrari-2.jpg",
-      "rank": 24
+      "rank": 25
     },
     {
       "id": "autosport-b5bd04df459c",
@@ -896,8 +908,8 @@
       "first_seen": "2026-11-06T21:41:47Z",
       "author": null,
       "summary": "Cadillac Formula 1 test driver Colton Herta has finally obtained the last remaining superlicence point required to drive in the series, but incumbent Valtteri Bottas remains bullish on his future with the squad. Herta conducted his sixth Friday practice session of the 2026…",
-      "image": "https://cdn-1.motorsport.com/images/amp/01QNpEx0/s6/colton-herta-cadillac-f1-team.jpg",
-      "rank": 25
+      "image": "https://cdn-3.motorsport.com/images/amp/01QNpEx0/s6/colton-herta-cadillac-f1-team.jpg",
+      "rank": 26
     },
     {
       "id": "autosport-80da1251bb6e",
@@ -908,8 +920,8 @@
       "first_seen": "2026-11-06T21:41:47Z",
       "author": null,
       "summary": "Lando Norris was fastest in first practice at Formula 1’s Brazilian Grand Prix, leading Kimi Antonelli, Max Verstappen and Lewis Hamilton. This classification meant the four top teams were again very close to one another. Norris outpaced Antonelli by 0.082s on the soft rubber…",
-      "image": "https://cdn-2.motorsport.com/images/amp/24QGzjNY/s6/lando-norris-mclaren-2.jpg",
-      "rank": 26
+      "image": "https://cdn-5.motorsport.com/images/amp/24QGzjNY/s6/lando-norris-mclaren-2.jpg",
+      "rank": 27
     },
     {
       "id": "autosport-aef89b0e44e6",
@@ -920,8 +932,8 @@
       "first_seen": "2026-11-06T16:05:46Z",
       "author": null,
       "summary": "Mercedes driver George Russell will lose five places on Sunday's Formula 1 Brazilian Grand Prix grid as he takes his sixth internal combustion engine of the season. Following a brace of power unit related issues earlier this year, the latest arriving after a failure at the…",
-      "image": "https://cdn-5.motorsport.com/images/amp/YK15qjD0/s6/george-russell-mercedes-2.jpg",
-      "rank": 27
+      "image": "https://cdn-2.motorsport.com/images/amp/YK15qjD0/s6/george-russell-mercedes-2.jpg",
+      "rank": 28
     },
     {
       "id": "autosport-3a3df697a781",
@@ -932,8 +944,8 @@
       "first_seen": "2026-11-06T16:05:46Z",
       "author": null,
       "summary": "Ferrari arrived at Interlagos facing a problem that, until just a few weeks ago, would have been difficult to imagine in quite this form. After a long season spent chasing competitiveness, the team finally appears to have found many of the answers that had been missing with its…",
-      "image": "https://cdn-1.motorsport.com/images/amp/63QaE1D2/s6/charles-leclerc-ferrari-lewis--2.jpg",
-      "rank": 28
+      "image": "https://cdn-6.motorsport.com/images/amp/63QaE1D2/s6/charles-leclerc-ferrari-lewis--2.jpg",
+      "rank": 29
     },
     {
       "id": "autosport-589f215d5a6e",
@@ -945,7 +957,7 @@
       "author": null,
       "summary": "Red Bull has given Alan Permane a new contract as the Racing Bulls Formula 1 squad’s team principal. Permane will retain the reins of the Faenza-based outfit until the end of the 2031 season. A stalwart of the current Alpine squad, where he worked from 1989 to 2023 in various…",
       "image": "https://cdn-4.motorsport.com/images/amp/24QebeqY/s6/alan-permane-racing-bulls-2.jpg",
-      "rank": 29
+      "rank": 30
     },
     {
       "id": "sky-3e2ee3482213",
@@ -957,19 +969,7 @@
       "author": null,
       "summary": null,
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-george-russell-mercedes_7405077.jpg?20261112142448=",
-      "rank": 6
-    },
-    {
-      "id": "autosport-2618e7f2abd5",
-      "source": "autosport",
-      "title": "Hamilton backs claims Leclerc races him harder than F1 rivals",
-      "url": "https://www.autosport.com/f1/news/lewis-hamilton-backs-claims-charles-leclerc-races-him-harder-than-f1-rivals/10871859/",
-      "published": "2026-11-05T18:58:43Z",
-      "first_seen": "2026-11-05T20:26:25Z",
-      "author": null,
-      "summary": "Lewis Hamilton maintains Ferrari needs further talks to iron out its rules of engagement, backing claims Charles Leclerc races him harder than drivers from rival teams. Hamilton and Leclerc came to blows on lap one of last weekend's race in Mexico with both drivers going off the…",
-      "image": "https://cdn-6.motorsport.com/images/amp/0qgKrwgY/s6/lewis-hamilton-ferrari-2.jpg",
-      "rank": 30
+      "rank": 7
     },
     {
       "id": "fia-dbe4dc5e3d33",
