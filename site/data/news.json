@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T23:40:26Z",
+  "generated_at": "2026-11-22T04:31:54Z",
   "sources": [
     {
       "key": "therace",
@@ -44,7 +44,7 @@
       "timeline": true,
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 5
     },
     {
       "key": "f1",
@@ -60,6 +60,78 @@
   ],
   "items": [
     {
+      "id": "f1-27d50e675ad1",
+      "source": "f1",
+      "title": "OFFICIAL GRID: Who starts where for the Las Vegas Grand Prix",
+      "url": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-in-las-vegas-after-multiple-penalties.1PRdR9E7qYRjHoRh1NlDR4",
+      "published": null,
+      "first_seen": "2026-11-22T04:31:54Z",
+      "author": null,
+      "summary": "The full official starting order for the 2026 Las Vegas Grand Prix.",
+      "image": null,
+      "rank": 1
+    },
+    {
+      "id": "f1-1917b7f5a2f6",
+      "source": "f1",
+      "title": "LIVE COVERAGE: Thrilling battle for lead in Las Vegas GP",
+      "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-heineken-las-vegas-grand-prix-2026.5lbMAk1JxHBbBVelEl2kyc",
+      "published": null,
+      "first_seen": "2026-11-22T04:31:54Z",
+      "author": null,
+      "summary": "Live coverage of Saturday's Formula 1 Heineken Las Vegas Grand Prix 2026.",
+      "image": null,
+      "rank": 2
+    },
+    {
+      "id": "f1-31f47490514b",
+      "source": "f1",
+      "title": "Palmowski fends off Larsen for victory in Las Vegas",
+      "url": "https://www.formula1.com/en/latest/article/f1-academy-palmowski-fends-off-larsen-for-victory-as-campos-racing-claim-teams-title-in-las-vegas.6Fw8vZsWjOFWzvtWp4diBW",
+      "published": null,
+      "first_seen": "2026-11-22T04:31:54Z",
+      "author": null,
+      "summary": "Alisha Palmowski came out on top in a back-and-forth battle with Alba Larsen to secure her sixth victory of the season in Las Vegas.",
+      "image": null,
+      "rank": 3
+    },
+    {
+      "id": "sky-b5675af38b82",
+      "source": "sky",
+      "title": "Las Vegas GP: Verstappen ahead of Russell in thrilling battle for lead LIVE!",
+      "url": "https://www.skysports.com/f1/live-blog/12433/13615079/f1-las-vegas-gp-live-race-updates-results-stream-and-highlights-from-21st-round-of-2026-formula-1-season-in-usa",
+      "published": "2026-11-22T02:53:00Z",
+      "first_seen": "2026-11-22T04:31:54Z",
+      "author": null,
+      "summary": "Follow live updates and watch the best video from the Las Vegas Grand Prix. Watch live on Sky Sports F1 and Main Event",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-max-verstappen-red-bull_7413087.jpg?20261122041245=",
+      "rank": 1
+    },
+    {
+      "id": "sky-406f98a0ad50",
+      "source": "sky",
+      "title": "Palmowski wins season-finale in Las Vegas after epic battle with Larsen",
+      "url": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
+      "published": "2026-11-22T00:55:00Z",
+      "first_seen": "2026-11-20T07:57:48Z",
+      "author": null,
+      "summary": null,
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-f1-f1-academy_7413063.jpg?20261122003316=",
+      "rank": 3
+    },
+    {
+      "id": "fia-bdb9fba0669e",
+      "source": "fia",
+      "title": "FIA and AAMC extend FIA GT World Cup agreement through 2028",
+      "url": "https://www.fia.com/news/fia-and-aamc-extend-fia-gt-world-cup-agreement-through-2028",
+      "published": "2026-11-22T00:47:00Z",
+      "first_seen": "2026-11-22T04:31:54Z",
+      "author": "pmagdziarz",
+      "summary": "Sport news Under the new agreement, covering the 2027 and 2028 editions, AAMC will continue as the promoter of the FIA GT World Cup, which will remain a key feature of the annual Macau Grand Prix. The agreement continues the long-standing cooperation between the FIA and AAMC and…",
+      "image": null,
+      "rank": 1
+    },
+    {
       "id": "f1-c4ad2185a012",
       "source": "f1",
       "title": "Our final Las Vegas Grand Prix betting predictions",
@@ -69,7 +141,7 @@
       "author": null,
       "summary": "Our expert betting writers bring you their final predictions and latest odds before the Las Vegas Grand Prix.",
       "image": null,
-      "rank": 1
+      "rank": 4
     },
     {
       "id": "f1-9f8d5474cd74",
@@ -81,7 +153,7 @@
       "author": null,
       "summary": "Safer gambling is important, so we’ve flagged some key areas where you should keep a cool head when betting during this weekend's race.",
       "image": null,
-      "rank": 2
+      "rank": 5
     },
     {
       "id": "f1-df23b32cc47b",
@@ -93,7 +165,7 @@
       "author": null,
       "summary": "We have picked a four-leg Bet Builder for Las Vegas, including winner and a podium finish selection.",
       "image": null,
-      "rank": 3
+      "rank": 6
     },
     {
       "id": "therace-ad15137f32ad",
@@ -117,7 +189,7 @@
       "author": null,
       "summary": "Powered by Audi: Anthony Davidson takes us round the sensational Las Vegas track in a high-performance Audi, combining real laps with advanced sim data to break down racing lines, braking points and elite-level performance.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-audi-flying-lap-f1_7412162.jpg?20261121123347=",
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "therace-60c3f16069b7",
@@ -141,7 +213,7 @@
       "author": null,
       "summary": "Toto Wolff reflected on the impact of the slipstream during Las Vegas Grand Prix Qualifying, with Mercedes believing George Russell was ideally positioned for pole.",
       "image": null,
-      "rank": 4
+      "rank": 7
     },
     {
       "id": "f1-90fd4916619f",
@@ -153,7 +225,7 @@
       "author": null,
       "summary": "Matt Youson takes a look at the different pit stop and tyre options that are available to the teams on race day under the Las Vegas lights.",
       "image": null,
-      "rank": 5
+      "rank": 8
     },
     {
       "id": "f1-836ccf93d94a",
@@ -165,7 +237,7 @@
       "author": null,
       "summary": "Chris Medland picks out five key things to keep an eye on when the lights go out on race day in Nevada.",
       "image": null,
-      "rank": 6
+      "rank": 9
     },
     {
       "id": "f1-53e54ac7fc82",
@@ -176,42 +248,6 @@
       "first_seen": "2026-11-21T11:58:05Z",
       "author": null,
       "summary": "Arvid Lindblad believes his Qualifying performance for the Las Vegas Grand Prix \"was such a mess\", despite the Racing Bulls driver set to start from fifth on the grid.",
-      "image": null,
-      "rank": 7
-    },
-    {
-      "id": "f1-90bd583f4ce5",
-      "source": "f1",
-      "title": "What the teams said – Qualifying in Las Vegas",
-      "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-qualifying-in-las-vegas-2026.3nVBux5Arj5K1MNogvg9j9",
-      "published": null,
-      "first_seen": "2026-11-21T11:58:05Z",
-      "author": null,
-      "summary": "The drivers and teams report back from the first two practice sessions at the 2026 Las Vegas Grand Prix weekend.",
-      "image": null,
-      "rank": 8
-    },
-    {
-      "id": "f1-f350d1b80852",
-      "source": "f1",
-      "title": "Alpine left disappointed despite Gasly’s ‘perfect’ Q2 lap",
-      "url": "https://www.formula1.com/en/latest/article/alpine-left-disappointed-after-gasly-had-shone-with-perfect-lap-in-q2.48hDMDkgL0meTLKg3usEg6",
-      "published": null,
-      "first_seen": "2026-11-21T11:58:05Z",
-      "author": null,
-      "summary": "Pierre Gasly and Franco Colapinto were left disappointed after Las Vegas Grand Prix qualifying, despite showing promising pace in Q2 for Alpine.",
-      "image": null,
-      "rank": 9
-    },
-    {
-      "id": "f1-beab7344265d",
-      "source": "f1",
-      "title": "Russell stunned by 'insane’ tow power in Las Vegas",
-      "url": "https://www.formula1.com/en/latest/article/i-still-cant-wrap-my-head-around-it-russell-stunned-by-insane-tow-power-in-las-vegas-as-he-assesses-qualifying.52i0msrzwiBfGBpbuoNIwx",
-      "published": null,
-      "first_seen": "2026-11-21T11:58:05Z",
-      "author": null,
-      "summary": "Mercedes' George Russell missed out on getting a tow during Qualifying at the Las Vegas Grand Prix, but the Briton will still line up on the front row for Saturday's race.",
       "image": null,
       "rank": 10
     },
@@ -273,7 +309,7 @@
       "author": null,
       "summary": "Mercedes chief Toto Wolff dismissed suggestions the team should have done more to aid George Russell's bid for Las Vegas Grand Prix pole as he insisted the British driver had \"perfect\" track position for his final run in qualifying.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-george-russell-kimi_7412074.jpg?20261121081545=",
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "therace-d3795375f4a2",
@@ -333,7 +369,7 @@
       "author": null,
       "summary": "George Russell launched a scathing criticism of Max Verstappen after a clash between them in final practice at the Las Vegas Grand Prix ahead of a race they will now start on the front row together.",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-max-verstappen-red-bull_7412048.jpg?20261121070601=",
-      "rank": 3
+      "rank": 2
     },
     {
       "id": "therace-5c908ca9fbb9",
@@ -357,7 +393,7 @@
       "author": null,
       "summary": "Charles Leclerc was left \"angry\" while Lewis Hamilton said he was \"devastated\" after both Ferrari drivers suffered shock early exits from Las Vegas Grand Prix Qualifying.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-lewis-hamilton-ferrari_7412042.jpg?20261121064438=",
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "autosport-eca1ea617aba",
@@ -405,7 +441,7 @@
       "author": null,
       "summary": "Kimi Antonelli was fastest in qualifying for the Las Vegas Grand Prix but a five-place grid penalty means Max Verstappen will start on pole position from George Russell.",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-f1-kimi-antonelli_7412014.jpg?20261121052603=",
-      "rank": 1
+      "rank": 7
     },
     {
       "id": "autosport-bf374f61ce0e",
@@ -441,7 +477,7 @@
       "author": null,
       "summary": "Highlights from qualifying for the 2026 Las Vegas Grand Prix.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-motorsport-f1_7412005.jpg?20261121051734=",
-      "rank": 2
+      "rank": 4
     },
     {
       "id": "therace-9bab63fd29fb",
@@ -466,18 +502,6 @@
       "summary": "Max Verstappen escaped with a warning for his clash with George Russell in final practice at F1’s Las Vegas Grand Prix",
       "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1455035_HiRes.jpg",
       "rank": 12
-    },
-    {
-      "id": "sky-406f98a0ad50",
-      "source": "sky",
-      "title": "Larsen holds off Palmowski to win opening Las Vegas race",
-      "url": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
-      "published": "2026-11-21T03:00:00Z",
-      "first_seen": "2026-11-20T07:57:48Z",
-      "author": null,
-      "summary": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-alba-larsen_7386332.jpg?20261025013436=",
-      "rank": 10
     },
     {
       "id": "therace-93bea18ea285",
@@ -513,7 +537,7 @@
       "author": null,
       "summary": "George Russell and Max Verstappen collided with one another during final practice at the Las Vegas Grand Prix.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-motorsport-f1-russell_7411947.jpg?20261121013641=",
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "sky-287477e6368c",
@@ -525,7 +549,7 @@
       "author": null,
       "summary": null,
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-kimi-antonelli_7412022.jpg?20261121053336=",
-      "rank": 6
+      "rank": 10
     },
     {
       "id": "sky-fc74f8786459",
@@ -537,7 +561,7 @@
       "author": null,
       "summary": "Formula 1 will return to V8 engines from 2030 in a move FIA president Mohammed Ben Sulayem has described as \"an opportunity to reconnect with the DNA\" of the sport.",
       "image": "https://e0.365dm.com/26/10/1920x1080/skysports-f1-max-verstappen_7374105.jpg?20261011142434=",
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "therace-1cb38a848340",
@@ -573,7 +597,7 @@
       "author": "adezaluski",
       "summary": "Sport news The Fédération Internationale de l'Automobile (FIA), the global governing body for motor sport and the federation for mobility organisations worldwide, has today announced the 2030 Formula 1 Power Unit technical framework has been unanimously agreed between the FIA…",
       "image": null,
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "therace-4566f06d18e3",
@@ -597,7 +621,7 @@
       "author": "pmagdziarz",
       "summary": "Sport news Confirmed ahead of the 73rd Macau Grand Prix, the F4 Pirelli Scholarship is an extension of the long-standing partnership between the FIA and Pirelli that strives to showcase sporting excellence among drivers with potential for ongoing success. The scholarship will…",
       "image": null,
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "autosport-69178ea4feb4",
@@ -633,7 +657,7 @@
       "author": null,
       "summary": "McLaren chief Zak Brown says he would not want to trade Lando Norris for anyone else on the Formula 1 grid.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-lando-norris-mclaren_7411177.jpg?20261120074609=",
-      "rank": 16
+      "rank": 17
     },
     {
       "id": "sky-249aca102549",
@@ -645,7 +669,7 @@
       "author": null,
       "summary": "Kimi Antonelli has received a five-place grid penalty for the Las Vegas Grand Prix after further exceeding his engine allocation for the season.",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-kimi-antonelli-mercedes_7411091.jpg?20261120055053=",
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "sky-585f5fa8d86e",
@@ -657,7 +681,7 @@
       "author": null,
       "summary": "Mercedes' George Russell topped Practice Two from Alpine's Pierre Gasly as rain limited running on the opening day of track action at the Las Vegas Grand Prix.",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-f1-george-russell_7411076.jpg?20261120050313=",
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "sky-68e2573b258f",
@@ -669,7 +693,7 @@
       "author": null,
       "summary": "Highlights from Friday's practice sessions at the Las Vegas Grand Prix.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-practice-f1_7411082.jpg?20261120053202=",
-      "rank": 15
+      "rank": 16
     },
     {
       "id": "autosport-dc2b056b1d71",
@@ -705,7 +729,7 @@
       "author": null,
       "summary": "Red Bull's Max Verstappen battles the elements during the first practice session at the Las Vegas GP.",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-max-verstappen_7411054.jpg?20261120020907=",
-      "rank": 18
+      "rank": 19
     },
     {
       "id": "autosport-1b2a81e3fc81",
@@ -741,7 +765,7 @@
       "author": null,
       "summary": null,
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-lewis-hamilton-ferrari_7411134.jpg?20261120081129=",
-      "rank": 17
+      "rank": 18
     },
     {
       "id": "autosport-2afe775fd536",
@@ -765,7 +789,7 @@
       "author": null,
       "summary": "The FIA has announced it will introduce full-time Formula 1 stewards from 2027 with the aim of having \"greater consistency in decision-making\".",
       "image": "https://e0.365dm.com/23/10/1920x1080/skysports-fia-logo-formula-1_6327822.jpg?20231020083614=",
-      "rank": 19
+      "rank": 20
     },
     {
       "id": "fia-fffb6e754f61",
@@ -777,7 +801,7 @@
       "author": "vmerrick",
       "summary": "Sport news FIA to begin recruiting full-time stewards, with a phased introduction during the 2027 Formula 1 season. Programme aims to establish a department of 12-15 full-time stewards over coming years, further professionalising officiating and expanding coverage across FIA…",
       "image": null,
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "autosport-312cd43948d3",
@@ -790,18 +814,6 @@
       "summary": "Lewis Hamilton has insisted there are zero “trust” problems at Ferrari despite him overruling strategic calls becoming a repeated occurrence across recent Formula 1 grands prix. The seven-time world champion has ignored calls to pit in two of the last four rounds - Singapore and…",
       "image": "https://cdn-1.motorsport.com/images/amp/68VwM4l2/s6/lewis-hamilton-ferrari.jpg",
       "rank": 16
-    },
-    {
-      "id": "sky-49302ae22312",
-      "source": "sky",
-      "title": "Battle for second and driver changes! Biggest talking points ahead of Las Vegas GP",
-      "url": "https://www.skysports.com/watch/video/13613909/biggest-talking-points-ahead-of-las-vegas-gp",
-      "published": "2026-11-19T11:05:00Z",
-      "first_seen": "2026-11-19T18:26:59Z",
-      "author": null,
-      "summary": "Craig Slater explains the biggest talking points ahead of the Las Vegas GP.",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-las-vegas_7410326.jpg?20261119112001=",
-      "rank": 20
     },
     {
       "id": "autosport-a51125d329eb",
@@ -981,7 +993,7 @@
       "author": null,
       "summary": "Formula 1 heads for the bright lights of Las Vegas with both 2026 titles settled, but the competitive picture at the front of the grid tighter than it has been at any other stage of the season.",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-lando-norris-mclaren_7404230.jpg?20261111162623=",
-      "rank": 9
+      "rank": 11
     },
     {
       "id": "fia-aefcd16d3f3d",
@@ -993,7 +1005,7 @@
       "author": "sgomez",
       "summary": "Sport news The following hearing of the International Court of Appeal will take place in Paris: Hearing Case ICA-2026-14: Appeal lodged by Audi Revolut F1 Team against Decision No. 69 of the Stewards of the 2026 Italian Grand Prix, dated 6 September 2026, counting towards the…",
       "image": null,
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "sky-34d74697a4ad",
@@ -1005,7 +1017,7 @@
       "author": null,
       "summary": null,
       "image": "https://e1.365dm.com/26/05/1920x1080/skysports-formula-one-miami_7237109.jpg?20260502160238=",
-      "rank": 11
+      "rank": 12
     }
   ]
 }
