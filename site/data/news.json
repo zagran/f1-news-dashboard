@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-22T20:12:59Z",
+  "generated_at": "2026-11-23T01:00:06Z",
   "sources": [
     {
       "key": "therace",
@@ -60,6 +60,30 @@
   ],
   "items": [
     {
+      "id": "f1-8e02b189e772",
+      "source": "f1",
+      "title": "Battle for second place tightens as finish line nears",
+      "url": "https://www.formula1.com/en/latest/article/battle-for-second-place-tightens-as-2026-world-championship-finish-line-nears.5Rqr6EDZZLiPtFbnomVdfb",
+      "published": null,
+      "first_seen": "2026-11-23T01:00:06Z",
+      "author": null,
+      "summary": "Max Verstappen made it four wins in six races but challengers for second place are queueing up.",
+      "image": null,
+      "rank": 1
+    },
+    {
+      "id": "autosport-c6bbcbd60594",
+      "source": "autosport",
+      "title": "F1 plans two-team engine supply limit under 2030 V8 rules",
+      "url": "https://www.autosport.com/f1/news/f1-set-to-reduce-customer-teams-as-key-2030-details-emerge/10877058/",
+      "published": "2026-11-22T20:32:03Z",
+      "first_seen": "2026-11-23T01:00:06Z",
+      "author": null,
+      "summary": "F1 is planning a shift to just two power unit supplies per manufacturer in 2030, Autosport has learned, raising questions over the status of Mercedes' three current customers. Over the Las Vegas weekend the FIA announced there was unanimous support to bring the next generation…",
+      "image": "https://cdn-1.motorsport.com/images/amp/YP7rVg42/s6/race-start-2.jpg",
+      "rank": 1
+    },
+    {
       "id": "f1-0d5848f2092c",
       "source": "f1",
       "title": "All the key moments from the Las Vegas Grand Prix",
@@ -69,7 +93,7 @@
       "author": null,
       "summary": "Max Verstappen claimed his fourth win of the season in Las Vegas, having withstood immense pressure throughout in a thrilling race which featured more than 30 changes of the lead.",
       "image": null,
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "f1-d619726b2897",
@@ -81,7 +105,7 @@
       "author": null,
       "summary": "Ahead of his first full-time Formula 1 season in 2027, Rafael Camara will again drive for Haas at the 2026 Qatar and Abu Dhabi Grands Prix.",
       "image": null,
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "f1-11f3e8581e86",
@@ -93,7 +117,7 @@
       "author": null,
       "summary": "It was Verstappen’s third Vegas win in four years, but what did the 2026 edition of this iconic race teach F1 betting fans ahead of the final two races.",
       "image": null,
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "f1-81f394831f96",
@@ -105,7 +129,7 @@
       "author": null,
       "summary": "George Russell and Kimi Antonelli were both in contention for victory in Las Vegas, until it all came undone in the final laps of the event.",
       "image": null,
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "f1-1b33e548b55f",
@@ -117,7 +141,7 @@
       "author": null,
       "summary": "Arvid Lindblad admits that Racing Bulls failing to score a single point in the Las Vegas Grand Prix was \"a massive lost opportunity\", with the Formula 1 rookie spinning out of the race behind the Safety Car.",
       "image": null,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "f1-80ed89a986b3",
@@ -129,7 +153,7 @@
       "author": null,
       "summary": "Lando Norris reflects on his recovery to P2 at the Las Vegas Grand Prix, revealing how battery management complicated an exceptionally chaotic race.",
       "image": null,
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "autosport-ad550f78c092",
@@ -141,7 +165,7 @@
       "author": null,
       "summary": "Haas rookie Rafael Camara will see out the season with Haas in Qatar and Abu Dhabi, effectively ending his F2 championship challenge. Camara was confirmed in October as a full-time replacement for Esteban Ocon in 2027, and was fast-tracked into the seat after Ocon's relationship…",
       "image": "https://cdn-1.motorsport.com/images/amp/YP74VKA2/s6/rafael-camara-haas-2.jpg",
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "therace-aad6f7aecaec",
@@ -201,7 +225,7 @@
       "author": null,
       "summary": "Ferrari boss Fred Vasseur has branded the latest clash between Charles Leclerc and Lewis Hamilton at the Las Vegas Grand Prix “unacceptable”, calling for greater respect between his drivers.",
       "image": null,
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "f1-2214f8443031",
@@ -213,7 +237,7 @@
       "author": null,
       "summary": "The drivers and teams report back on all the events from the 2026 Las Vegas Grand Prix.",
       "image": null,
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "f1-24654d597117",
@@ -224,18 +248,6 @@
       "first_seen": "2026-11-22T12:59:00Z",
       "author": null,
       "summary": "Isack Hadjar admits \"I'm waiting for the team to tell me what happened\" after his front wing broke during the Las Vegas Grand Prix, denying the Red Bull driver a chance of a podium.",
-      "image": null,
-      "rank": 9
-    },
-    {
-      "id": "f1-8c44b1cbc4ac",
-      "source": "f1",
-      "title": "Perez hit with five-place penalty in Qatar for Camara clash",
-      "url": "https://www.formula1.com/en/latest/article/perez-hit-with-five-place-penalty-in-qatar-after-camara-clash-during-las-vegas-grand-prix.30GG7oJuJ1As0MrkavmStN",
-      "published": null,
-      "first_seen": "2026-11-22T12:59:00Z",
-      "author": null,
-      "summary": "Cadillac's Sergio Perez has been handed a grid penalty for next weekend's Qatar Grand Prix following his collision with the Haas of Rafael Camara in Las Vegas.",
       "image": null,
       "rank": 10
     },
@@ -261,7 +273,7 @@
       "author": null,
       "summary": "Isack Hadjar has received a 10-second penalty for driving unnecessarily slowly in Formula 1’s Las Vegas Grand Prix – the result of his actions under the safety car. The race was neutralised on lap 19 when Sergio Perez and Rafael Camara collided; Max Verstappen was leading…",
       "image": "https://cdn-1.motorsport.com/images/amp/6b8Zy8v2/s6/george-russell-mercedes-pierre-2.jpg",
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "autosport-d6ec7b63c84c",
@@ -273,7 +285,7 @@
       "author": null,
       "summary": "Ferrari team boss Fred Vasseur says Charles Leclerc's contact with Lewis Hamilton in the Las Vegas Grand Prix was \"unacceptable\" and showed \"lack of respect for the team\", with the Formula 1 team set for fresh crisis talks just three weeks after their spat in Mexico. Vasseur had…",
       "image": "https://cdn-1.motorsport.com/images/amp/6b8Zy7v2/s6/charles-leclerc-ferrari-lewis-.jpg",
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "therace-9783b4e0afcd",
@@ -297,7 +309,7 @@
       "author": null,
       "summary": "Max Verstappen has hit back at George Russell’s Friday comments by winning Formula 1’s Las Vegas Grand Prix – and delivering scathing remarks afterwards. The pair were involved in an incident in Free Practice 3, with Verstappen breaching what Russell deemed to be a gentlemen’s…",
       "image": "https://cdn-1.motorsport.com/images/amp/YK15yEz0/s6/max-verstappen-red-bull-racing-2.jpg",
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "sky-a7eff5c200aa",
@@ -345,7 +357,7 @@
       "author": null,
       "summary": "Kimi Antonelli has explained the quirky “mistake” that cost him a shot at Formula 1 victory in the Las Vegas Grand Prix. The fastest driver in qualifying, Antonelli was sixth on the grid owing to a five-place drop for an engine change and was the only top-10 starter on mediums…",
       "image": "https://cdn-1.motorsport.com/images/amp/6VyKxydY/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "sky-84721a59b277",
@@ -393,7 +405,7 @@
       "author": null,
       "summary": "Max Verstappen won a wild Las Vegas Grand Prix, holding off both Mercedes drivers as Formula 1’s ‘yo-yo’ racing returned – with no Silver Arrow on the eventual podium. With qualifying pacesetter Andrea Kimi Antonelli taking a five-place grid penalty for exceeding his engine…",
       "image": "https://cdn-1.motorsport.com/images/amp/24QGyQAY/s6/max-verstappen-red-bull-racing-3.jpg",
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "sky-ca029e6cd623",
@@ -441,7 +453,7 @@
       "author": null,
       "summary": "George Russell hits the barrier after a lock-up when trying to overtake team-mate Kimi Antonelli at the Las Vegas Grand Prix, much to the delight of rival Max Verstappen.",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-max-george_7413130.jpg?20261122053854=",
-      "rank": 10
+      "rank": 12
     },
     {
       "id": "sky-5f53a699f370",
@@ -453,7 +465,19 @@
       "author": null,
       "summary": "Lewis Hamilton spins after contact with Ferrari team-mate Charles Leclerc, which led to a 10-second penalty for the latter at the Las Vegas Grand Prix.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-lewis-hamitln_7413126.jpg?20261122052502=",
-      "rank": 8
+      "rank": 9
+    },
+    {
+      "id": "sky-acd3a3aef7a4",
+      "source": "sky",
+      "title": "Dynamo amazes F1 grid with some Vegas magic!",
+      "url": "https://www.skysports.com/watch/video/13615093/f1-dynamo-amazes-grid-with-vegas-magic",
+      "published": "2026-11-22T03:06:00Z",
+      "first_seen": "2026-11-23T01:00:06Z",
+      "author": null,
+      "summary": "Magician Dynamo links up with McLaren and Alpine F1 teams to perform some Las Vegas magic! Dynamo vs Houdini will air exclusively on Sky this December.",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-las-vegas_7413075.jpg?20261122031549=",
+      "rank": 11
     },
     {
       "id": "sky-b5675af38b82",
@@ -477,7 +501,7 @@
       "author": null,
       "summary": "Highlights of the second F1 Academy race at the 2026 Las Vegas Grand Prix.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-motorsport-f1_7413067.jpg?20261122010524=",
-      "rank": 12
+      "rank": 14
     },
     {
       "id": "sky-406f98a0ad50",
@@ -489,7 +513,7 @@
       "author": null,
       "summary": null,
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-f1-f1-academy_7413063.jpg?20261122003316=",
-      "rank": 11
+      "rank": 13
     },
     {
       "id": "fia-bdb9fba0669e",
@@ -525,7 +549,7 @@
       "author": null,
       "summary": "Powered by Audi: Anthony Davidson takes us round the sensational Las Vegas track in a high-performance Audi, combining real laps with advanced sim data to break down racing lines, braking points and elite-level performance.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-audi-flying-lap-f1_7412162.jpg?20261121123347=",
-      "rank": 18
+      "rank": 20
     },
     {
       "id": "therace-60c3f16069b7",
@@ -549,7 +573,7 @@
       "author": null,
       "summary": "George Russell and Kimi Antonelli will discuss the fallout from Formula 1’s Las Vegas Grand Prix qualifying “offline” following confusion over team orders and track position. Traffic played a significant role in qualifying on Friday night with drivers reluctant to go first…",
       "image": "https://cdn-1.motorsport.com/images/amp/YWKAVQOY/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "therace-d0925cb172d2",
@@ -573,7 +597,7 @@
       "author": null,
       "summary": "Thanks to Kimi Antonelli 's grid penalty, Max Verstappen will start Formula 1's Las Vegas Grand Prix from pole position, but that is not necessarily a reason for the Dutch driver to be satisfied. Yes, Red Bull has made significant progress with its power unit on energy-poor…",
       "image": "https://cdn-1.motorsport.com/images/amp/0LderEP0/s6/max-verstappen-red-bull-racing-2.jpg",
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "therace-071854609e47",
@@ -597,7 +621,7 @@
       "author": null,
       "summary": "Mercedes chief Toto Wolff dismissed suggestions the team should have done more to aid George Russell's bid for Las Vegas Grand Prix pole as he insisted the British driver had \"perfect\" track position for his final run in qualifying.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-george-russell-kimi_7412074.jpg?20261121081545=",
-      "rank": 15
+      "rank": 17
     },
     {
       "id": "therace-d3795375f4a2",
@@ -633,7 +657,7 @@
       "author": null,
       "summary": "During the final practice session for the Formula 1 Las Vegas Grand Prix, Max Verstappen and George Russell crossed paths once again. The Dutchman overtook the Mercedes driver, but then slowed down in front of him and, according to the stewards, changed direction several times.…",
       "image": "https://cdn-1.motorsport.com/images/amp/0Zq8OJb6/s6/andrea-kimi-antonelli-mercedes-2.jpg",
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "sky-cb040470cc4a",
@@ -645,7 +669,7 @@
       "author": null,
       "summary": "George Russell launched a scathing criticism of Max Verstappen after a clash between them in final practice at the Las Vegas Grand Prix ahead of a race they will now start on the front row together.",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-max-verstappen-red-bull_7412048.jpg?20261121070601=",
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "sky-613364f90580",
@@ -657,7 +681,7 @@
       "author": null,
       "summary": "Charles Leclerc was left \"angry\" while Lewis Hamilton said he was \"devastated\" after both Ferrari drivers suffered shock early exits from Las Vegas Grand Prix Qualifying.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-lewis-hamilton-ferrari_7412042.jpg?20261121064438=",
-      "rank": 14
+      "rank": 16
     },
     {
       "id": "autosport-eca1ea617aba",
@@ -669,7 +693,7 @@
       "author": null,
       "summary": "Lewis Hamilton put Ferrari's Q2 exit in qualifying for the Las Vegas Grand Prix down to energy deployment and floor damage, as the seven-time Formula 1 world champion felt he'd rallied from difficulties with overall tyre grip. The Briton struggled throughout FP3 under braking…",
       "image": "https://cdn-1.motorsport.com/images/amp/YE9EbowY/s6/lewis-hamilton-ferrari-2.jpg",
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "autosport-e846d947dbb6",
@@ -681,7 +705,7 @@
       "author": null,
       "summary": "George Russell has hit out at Max Verstappen after they collided in Free Practice 3 at Formula 1’s Las Vegas Grand Prix. Verstappen overtook the Mercedes ahead of Turn 14 in a quest for free air, but Russell moved to get back ahead, with the Dutchman unsuccessfully closing the…",
       "image": "https://cdn-1.motorsport.com/images/amp/6grQkLjY/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "sky-d24b2df329c0",
@@ -693,7 +717,7 @@
       "author": null,
       "summary": "Kimi Antonelli was fastest in qualifying for the Las Vegas Grand Prix but a five-place grid penalty means Max Verstappen will start on pole position from George Russell.",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-f1-kimi-antonelli_7412014.jpg?20261121052603=",
-      "rank": 16
+      "rank": 18
     },
     {
       "id": "autosport-bf374f61ce0e",
@@ -705,7 +729,7 @@
       "author": null,
       "summary": "Max Verstappen will start on pole at the Formula 1 Las Vegas Grand Prix despite Kimi Antonelli going fastest - while Charles Leclerc and Lewis Hamilton both failed to make Q3. The 2026 world champion beat the Red Bull driver by 0.258s, but is set for a five-place grid drop due…",
       "image": "https://cdn-1.motorsport.com/images/amp/0rVPkgW0/s6/andrea-kimi-antonelli-mercedes-2.jpg",
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "sky-d278738f1be0",
@@ -717,7 +741,7 @@
       "author": null,
       "summary": "Highlights from qualifying for the 2026 Las Vegas Grand Prix.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-motorsport-f1_7412005.jpg?20261121051734=",
-      "rank": 13
+      "rank": 15
     },
     {
       "id": "autosport-341a9b1f60af",
@@ -729,7 +753,7 @@
       "author": null,
       "summary": "George Russell collided with Max Verstappen in a tense third practice session at the Las Vegas Grand Prix as the Mercedes Formula 1 driver topped the timesheets. After both of Thursday's practice sessions had been derailed by rain, the Las Vegas Strip was buzzing with activity…",
       "image": "https://cdn-1.motorsport.com/images/amp/2wlKzDpY/s6/george-russell-mercedes-2.jpg",
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "sky-95df27135788",
@@ -741,31 +765,7 @@
       "author": null,
       "summary": "George Russell and Max Verstappen collided with one another during final practice at the Las Vegas Grand Prix.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-motorsport-f1-russell_7411947.jpg?20261121013641=",
-      "rank": 17
-    },
-    {
-      "id": "sky-287477e6368c",
-      "source": "sky",
-      "title": "Las Vegas GP: Reaction to penalised Antonelli qualifying fastest and Verstappen pole",
-      "url": "https://www.skysports.com/f1/live-blog/12433/13613768/f1-las-vegas-gp-qualifying-and-final-practice-updates-results-stream-and-highlights-from-formula-1-race-weekend-on-the-strip",
-      "published": "2026-11-20T23:30:00Z",
-      "first_seen": "2026-11-21T03:41:31Z",
-      "author": null,
-      "summary": null,
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-kimi-antonelli_7412022.jpg?20261121053336=",
       "rank": 19
-    },
-    {
-      "id": "sky-fc74f8786459",
-      "source": "sky",
-      "title": "V8 engines return confirmed in bid to 'reconnect with DNA' of F1",
-      "url": "https://www.skysports.com/f1/news/12433/13614482/v8-engines-returning-to-formula-1-in-2030-as-fia-president-mohammed-ben-sulayem-describes-move-to-reconnect-with-dna-of-the-sport",
-      "published": "2026-11-20T20:10:00Z",
-      "first_seen": "2026-11-20T22:54:26Z",
-      "author": null,
-      "summary": "Formula 1 will return to V8 engines from 2030 in a move FIA president Mohammed Ben Sulayem has described as \"an opportunity to reconnect with the DNA\" of the sport.",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-f1-max-verstappen_7374105.jpg?20261011142434=",
-      "rank": 20
     },
     {
       "id": "autosport-73418fedb3e1",
@@ -777,7 +777,7 @@
       "author": null,
       "summary": "Formula 1 has moved closer to a return to V8 engines from the 2030 season as the FIA announced that a unanimous agreement has been reached between the governing body, F1 management and the power unit manufacturers. F1 has long worked towards cheaper and simpler engines for the…",
       "image": "https://cdn-1.motorsport.com/images/amp/YWKAgeVY/s6/charles-leclerc-ferrari-lewis--2.jpg",
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "fia-9520248d4c30",
@@ -813,7 +813,7 @@
       "author": null,
       "summary": "Formula 1 teams will again have to follow a prescribed stint limit for each car at the Qatar Grand Prix to protect the Pirelli tyres around the high-degradation track. Drivers must complete no more than 27 laps per stint at Lusail International Circuit, meaning teams will likely…",
       "image": "https://cdn-1.motorsport.com/images/amp/6DGqG9JY/s6/lando-norris-mclaren-oscar-pia-2.jpg",
-      "rank": 15
+      "rank": 16
     },
     {
       "id": "autosport-aeed677af2fc",
@@ -825,7 +825,7 @@
       "author": null,
       "summary": "After Thursday's practice sessions in Las Vegas, Red Bull – like all Formula 1 teams – has been left with very few answers. Isack Hadjar eventually finished fourth on the timesheets, but that means very little given that no more rain is forecast for the remainder of the weekend.…",
       "image": "https://cdn-1.motorsport.com/images/amp/0arEG1p2/s6/max-verstappen-red-bull-racing-2.jpg",
-      "rank": 16
+      "rank": 17
     },
     {
       "id": "autosport-dc2b056b1d71",
@@ -837,7 +837,7 @@
       "author": null,
       "summary": "George Russell pipped Pierre Gasly to go fastest in second practice for the Formula 1 Las Vegas Grand Prix thanks to a late time in slippery conditions. The Mercedes driver set a 1m47.272s at the chequered flag which put him 0.071s ahead of Gasly, who benefitted from track…",
       "image": "https://cdn-1.motorsport.com/images/amp/YE9EbBMY/s6/george-russell-mercedes-2.jpg",
-      "rank": 17
+      "rank": 18
     },
     {
       "id": "autosport-14fd2541b0e4",
@@ -849,7 +849,7 @@
       "author": null,
       "summary": "Cadillac is set to delay the introduction of its in-house Formula 1 power unit by a year to 2030. The American squad's initial plan was to compete in the championship with its own General Motors power unit for the first time in 2029. However, that was based on the idea that the…",
       "image": "https://cdn-1.motorsport.com/images/amp/2jEAkpP0/s6/valtteri-bottas-cadillac-2.jpg",
-      "rank": 18
+      "rank": 19
     },
     {
       "id": "autosport-1b2a81e3fc81",
@@ -861,7 +861,7 @@
       "author": null,
       "summary": "\"If we're on a track like Vegas and it rains, honestly, I think we're in trouble,\" Racing Bulls driver Liam Lawson predicted after sampling this year's rain tyres in Brazil. His comments reflected the general mood in the paddock as the Pirelli tyres are difficult to bring up to…",
       "image": "https://cdn-1.motorsport.com/images/amp/6DGgOo9Y/s6/george-russell-mercedes-2.jpg",
-      "rank": 19
+      "rank": 20
     },
     {
       "id": "autosport-0a240d54662e",
@@ -873,7 +873,7 @@
       "author": null,
       "summary": "Athletic apparel giant Nike has joined F1 as its official partner and uniform supplier, taking over from Puma at the start of 2027. As was long rumoured, Nike will start supplying F1 personnel with apparel and footwear from the start of next season, a partnership that also…",
       "image": "https://cdn-1.motorsport.com/images/amp/6O7zEMP6/s6/nike-x-formula-1.jpg",
-      "rank": 20
+      "rank": 21
     },
     {
       "id": "autosport-2afe775fd536",
@@ -885,7 +885,7 @@
       "author": null,
       "summary": "The consistency of stewards’ decisions has been a topic of discussion in the Formula 1 paddock for years. While the complexity of the sporting regulations and racing guidelines is one factor, another question keeps coming up: would a permanent panel of stewards improve…",
       "image": "https://cdn-1.motorsport.com/images/amp/24QerjAY/s6/start-action-3.jpg",
-      "rank": 21
+      "rank": 22
     },
     {
       "id": "fia-fffb6e754f61",
@@ -909,7 +909,7 @@
       "author": null,
       "summary": "Lewis Hamilton has insisted there are zero “trust” problems at Ferrari despite him overruling strategic calls becoming a repeated occurrence across recent Formula 1 grands prix. The seven-time world champion has ignored calls to pit in two of the last four rounds - Singapore and…",
       "image": "https://cdn-1.motorsport.com/images/amp/68VwM4l2/s6/lewis-hamilton-ferrari.jpg",
-      "rank": 22
+      "rank": 23
     },
     {
       "id": "autosport-a51125d329eb",
@@ -921,7 +921,7 @@
       "author": null,
       "summary": "The Las Vegas Grand Prix promises to be an interesting challenge for Formula 1 teams in several respects, arguably even more so than in previous years. With the 2026 cars producing less downforce and relying on active aerodynamics, getting temperature into the Pirelli tyres –…",
       "image": "https://cdn-1.motorsport.com/images/amp/0rVPwaJ0/s6/max-verstappen-red-bull-racing.jpg",
-      "rank": 23
+      "rank": 24
     },
     {
       "id": "autosport-3ece7f3f6aba",
@@ -933,7 +933,7 @@
       "author": null,
       "summary": "Immediately after the Brazilian Grand Prix, Honda was still unable to fully explain Lance Stroll's DNF. The Canadian was forced to retire for the 14th time, equalling the all-time record for the most retirements in a single Formula 1 season. Ahead of the race weekend in Las…",
       "image": "https://cdn-1.motorsport.com/images/amp/2jEAyEN0/s6/lance-stroll-aston-martin-raci-3.jpg",
-      "rank": 24
+      "rank": 25
     },
     {
       "id": "autosport-2ab3e60aa04b",
@@ -945,7 +945,7 @@
       "author": null,
       "summary": "Although the FIA's announcement was only online for five minutes, there is no doubt in the paddock that V8 engines will return to Formula 1. An agreement in principle has been reached on a 2.1-litre turbocharged V8 with a smaller electrical component, which is set to be…",
       "image": "https://cdn-1.motorsport.com/images/amp/Y9lNGqZ2/s6/max-verstappen-red-bull-racing-2.jpg",
-      "rank": 25
+      "rank": 26
     },
     {
       "id": "autosport-d4ba8ddf73cb",
@@ -957,7 +957,7 @@
       "author": null,
       "summary": "Although the FIA's formal confirmation on Tuesday was only online for a few minutes before being temporarily taken down again, it is clear to everyone in the paddock that V8 engines will return to Formula 1. The agreement in principle involves a 2.1-litre turbocharged V8 – with…",
       "image": "https://cdn-1.motorsport.com/images/amp/63QaODg2/s6/fernando-alonso-aston-martin-r-2.jpg",
-      "rank": 26
+      "rank": 27
     },
     {
       "id": "autosport-c598b7560a0e",
@@ -969,7 +969,7 @@
       "author": null,
       "summary": "The longest-running contract saga of the Formula 1 season is now at an end. Not that it has been blockbuster material, since it revolves around a team struggling to lift itself from the back of the grid. Still, the easy option for Cadillac F1's stakeholders would have been to…",
       "image": "https://cdn-1.motorsport.com/images/amp/2eZgEAjY/s6/valtteri-bottas-cadillac-racin-3.jpg",
-      "rank": 27
+      "rank": 28
     },
     {
       "id": "autosport-ce9f10ce0cc7",
@@ -981,7 +981,7 @@
       "author": null,
       "summary": "Incumbent Valtteri Bottas will remain with the Cadillac Formula 1 team through 2027 after the US-owned team decided against fast-tracking American test driver Colton Herta to a race seat. Bottas will stay on board with Cadillac alongside Sergio Perez as initially planned, with…",
       "image": "https://cdn-1.motorsport.com/images/amp/6DGqnGVY/s6/valtteri-bottas-cadillac-racin-2.jpg",
-      "rank": 28
+      "rank": 29
     },
     {
       "id": "autosport-2713511c9f62",
@@ -993,18 +993,6 @@
       "author": null,
       "summary": "Formula 1 has signed a deal with wearables company WHOOP which will see a number of drivers wear the company's health trackers and showcase their data on the TV broadcasts in 2027. WHOOP will become an Official Partner of F1 in a deal that will see an increasing number of…",
       "image": "https://cdn-1.motorsport.com/images/amp/2y7Q83g6/s6/ahmed-domenicali.jpg",
-      "rank": 29
-    },
-    {
-      "id": "autosport-46b462828ced",
-      "source": "autosport",
-      "title": "The factors behind the abortive 2030 F1 rules announcement",
-      "url": "https://www.autosport.com/f1/news/the-factors-behind-the-abortive-f1-2030-rules-announcement/10875290/",
-      "published": "2026-11-18T14:08:08Z",
-      "first_seen": "2026-11-18T19:29:05Z",
-      "author": null,
-      "summary": "Famously, when the papal conclave gathers to elect a new pope, a successful vote is communicated to the huddled masses via smoke from the Sistine Chapel chimney as the chemically impregnated ballot papers are burned: white smoke signifies a decision, black means yet another…",
-      "image": "https://cdn-1.motorsport.com/images/amp/0rVx13O0/s6/stefano-domenicali-mohammed-be-2.jpg",
       "rank": 30
     },
     {
@@ -1018,6 +1006,18 @@
       "summary": "Sport news The following hearing of the International Court of Appeal will take place in Paris: Hearing Case ICA-2026-14: Appeal lodged by Audi Revolut F1 Team against Decision No. 69 of the Stewards of the 2026 Italian Grand Prix, dated 6 September 2026, counting towards the…",
       "image": null,
       "rank": 5
+    },
+    {
+      "id": "sky-715f5449e8b9",
+      "source": "sky",
+      "title": "F1 2026 team-mate head-to-heads after Las Vegas GP",
+      "url": "https://www.skysports.com/f1/news/12433/13516662/f1-team-mate-2026-head-to-head-qualifying-race-sprint-latest-scores-results-from-formula-1-season",
+      "published": "2026-11-09T11:20:00Z",
+      "first_seen": "2026-11-23T01:00:06Z",
+      "author": null,
+      "summary": "The 2026 Formula 1 head-to-heads with all of the latest Qualifying, Sprint and Grand Prix scores in each of the 11 teams.",
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-f1-f1-2026-f1-field_7186813.jpg?20260309102551=",
+      "rank": 8
     }
   ]
 }
